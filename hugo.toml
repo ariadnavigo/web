@@ -1,0 +1,59 @@
+title = "Ariadna Vigo"
+baseURL = "/"
+defaultContentLanguage = "es"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
+theme = "not-much"
+copyright = "Copyright (c) Ariadna Vigo"
+
+[params]
+showThemeNotice = "true"
+
+theme = "auto"
+palette = "dracula"
+showPostsSummary = "true"
+
+author = "Ariadna Vigo"
+subtitle = "Relatos y otros textos de la lingüista Ariadna Vigo"
+keywords = "lingüista, correcciones, consultoría, lenguas, narrativa, poesía, ensayo"
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "consultoria"
+name = "Consultoría lingüística"
+url = "/consultoria"
+weight = 2
+
+[[menu.main]]
+identifier = "posts"
+name = "Escritos"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Etiquetas"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+identifier = "contacto"
+name = "Contacto"
+url = "/contacto"
+weight = 5
+
+[[menu.main]]
+identifier = "rss"
+name = "Feed RSS"
+url = "/index.xml"
+weight = 8
+
+[module]
+[[module.imports]]
+path = "github.com/hugomods/images"
