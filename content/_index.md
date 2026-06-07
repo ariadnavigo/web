@@ -6,17 +6,17 @@ author = "Ariadna"
 
 ¡Hola!
 
-Mi nombre es Ariadna y te doy la bienvenida a mi web. Soy doctora en lingüística
+Mi nombre es Ariadna y os doy la bienvenida a mi web. Soy doctora en lingüística
 y me dedico, profesionalmente, a la consultoría lingüística para particulares y
 empresas (correcciones, traducciones, auditoría, apoyo a proyectos de
-investigación, etc.). [En este enlace][consultoria] podrás encontrar más
+investigación, etc.). [En este enlace][consultoria] podréis encontrar más
 información.
 
 Aprovecho también esta web para publicar principalmente relatos, aunque
 eventualmente pueda publicar algún ensayo. Cuando decidí crear este sitio, me
 prometí que este sería un lugar donde seguir los caminos de la escritura sin
 prisas ni presiones de algoritmos, por lo que no sigo aquí ningún calendario de
-publicaciones. Encontrarás todas las publicaciones [en este enlace.][escritos]
+publicaciones. Encontraréis todas las publicaciones [en este enlace.][escritos]
 
 De vez en cuando, escribo código como programadora _amateur_ (una pequeña
 herencia que me dejó mi abuelo materno a través de su vieja ZX Spectrum).
