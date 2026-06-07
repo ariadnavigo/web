@@ -18,9 +18,6 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
 
   {{ if .Param "math" }}
     {{ partial "math.html" . }}
@@ -39,5 +36,10 @@
     detectThemePreferences();
   </script>
   {{- end }}
+
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+
 </body>
 </html>
