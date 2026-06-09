@@ -25,10 +25,14 @@ nuevos horizontes. Esta web está hecha con herramientas 100% abiertas y, de
 hecho, tanto el código de esta web como mis demás proyectos están publicados en
 [GitHub][github].
 
-Y "contengo muchas multidudes" más, parafraseando al poeta. Desde el amor por la
-filosofía, pasando por una vida de aventuras, retos y mucha experiencia tanto en
-lo más palaciego como en lo más humilde... Así como en catalán se dice _Passeu,
-passeu a veure el piset,_ yo os digo aquí: _Pasad, pasad a ver esta web._
+Y "contengo muchas multidudes" más, parafraseando al poeta: desde el amor por la
+filosofía, el derecho, el arte y la técnica, pasando por una vida de aventuras,
+retos y mucha experiencia tanto en lo más palaciego como en lo más humilde...
+hasta llegar al punto presente, llena yo de sedimento y de una vida muy vivida.
+Confío que en mis textos y en mi trabajo eso siempre está presente.
+
+Así que, al igual que en catalán se dice _Passeu, passeu a veure el piset,_ yo
+os digo aquí: _Pasad, pasad a ver esta web._
 
 Os deseo mucho amor.
 
