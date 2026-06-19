@@ -64,8 +64,8 @@ diferencia.
 A lo largo de los años he trabajado con editoriales, fundaciones, proyectos de
 investigación y todo tipo de empresas y profesionales. El lenguaje está presente
 en todo: escondido en los procesos internos de una empresa hasta las
-publicaciones que salen a mercado. A veces, he cuidado de textos de cuya forma
-dependían éxitos muy personales.
+publicaciones que salen a mercado. Muchas veces he cuidado de textos de cuya
+forma dependían éxitos muy personales.
 
 He vivido y vaya que he vivido; quizás [mis escritos][escritos] lo muestran.
 Tanta vida, además de la extensa formación, me ha enseñado de filosofía,
