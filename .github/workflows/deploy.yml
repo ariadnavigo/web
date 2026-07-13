@@ -23,7 +23,7 @@ jobs:
         run: hugo --minify --gc
 
       - name: rsync deployments
-        uses: burnett01/rsync-deployments@v8
+        uses: burnett01/rsync-deployments@v9
         with:
           switches: -avzP --delete
           path: public/
