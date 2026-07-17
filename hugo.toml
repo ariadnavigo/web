@@ -8,6 +8,7 @@ copyright = "Copyright (c) Ariadna Vigo"
 
 [params]
 showThemeNotice = "true"
+showFooterEverywhere = "true"
 
 theme = "dark"
 palette = "dracula"
