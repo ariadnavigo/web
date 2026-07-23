@@ -16,7 +16,7 @@ Aprovecho también esta web para publicar principalmente relatos, aunque
 eventualmente pueda publicar algún ensayo. Cuando decidí crear este sitio, me
 prometí que este sería un lugar donde seguir los caminos de la escritura sin
 prisas ni presiones de algoritmos, por lo que no sigo aquí ningún calendario de
-publicaciones. Encontraréis todas las publicaciones [en este enlace.][escritos]
+publicaciones. Encontraréis todos mis escritos [aquí.][escritos]
 
 De vez en cuando, escribo código como programadora _amateur_ (una pequeña
 herencia que me dejó mi abuelo materno a través de su vieja ZX Spectrum).
@@ -25,7 +25,7 @@ nuevos horizontes. Esta web está hecha con herramientas 100% abiertas y, de
 hecho, tanto el código de esta web como mis demás proyectos están publicados en
 [GitHub][github].
 
-Y "contengo muchas multidudes" más, parafraseando al poeta: desde el amor por la
+Y "contengo muchas multitudes" más, parafraseando al poeta: desde el amor por la
 filosofía, el derecho, el arte y la técnica, pasando por una vida de aventuras,
 retos y mucha experiencia tanto en lo más palaciego como en lo más humilde...
 hasta llegar al punto presente, llena yo de sedimento y de una vida muy vivida.
