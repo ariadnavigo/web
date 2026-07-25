@@ -41,8 +41,8 @@ llanuras y los mares del mundo. Y bañado por esa cascada vivía su monte, el su
 
 Atajó el pelo entre sus manos, escurriéndolo. Pensó en que era ya el momento de
 aplicar el champú sobre su cabello, pero decidió que esperaría un poco más. Al
-fin y al cabo, ¿por qué no alargar un poco una ducha de mediodía? A través
-de la ventana del baño se colaba la luz del sol de aquel fin de invierno, que se
+fin y al cabo, ¿por qué no alargar un poco una ducha de mediodía? A través de la
+ventana del baño se colaba la luz del sol de aquel fin de invierno, que se
 colaba por una segunda vez por el vidrio semiopaco de la mampara de la ducha.
 Como los azulejos del baño eran de un marrón claro --o crema oscuro-- toda la
 luz que venía del exterior se teñía de un calmo tono cálido, casi de ensueño,
@@ -110,7 +110,7 @@ adorada en los tiempos antiguos, como la adoraron a ella misma... Tomó un
 segundo entre sus dedos el colgante de luna de Selena, solo un segundo; Selena
 se dio cuenta pero hizo como que no. Una lágrima se camufló entre las gotas de
 la ducha y Babalón, con el corazón calmadamente encendido, achuchó a Selena
-fuerte, que se rió casi como una niña.
+fuerte, que se rio casi como una niña.
 
 --Mi adorada Diosa pequeña --le dijo, al oído--. Nunca olvides quién eres.
 
@@ -149,7 +149,7 @@ oscuro--, se quedaron toda la tarde en el sofá dormitando. Como si se tratara d
 un vapor misterioso, los aromas de los perfumes y lociones que se ofrecieron la
 una a la otra al acabar la ducha llenaban el salón. Era una tarde de viernes en
 la que la ciudad ya moría sacrificándose ante el fin de semana y la paz entraba
-como un velo suave por la persiana bajada ante la ventana... 
+como un velo suave por la persiana bajada ante la ventana...
 
 Durmieron la siesta juntas y ahora era Babalón la que se recostaba sobre Selena,
 sobre su vientre. Eran días de amor.

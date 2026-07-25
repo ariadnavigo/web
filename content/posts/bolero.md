@@ -16,10 +16,10 @@ En la barra trabajaban un señor mayor, calvo, de bigote tupido y mucha agilidad
 en el servicio. Mezclaba sin artilugios, creaba cócteles sin darles nombre y
 siempre parecía atento a la clientela, fijando con ávido interés sus ojos
 celestes enormes. Asentía. Trabajaba. Servía. Pocas palabras, pero efectivo.
-Sonreía, pero con cordialidad profesional. A su lado, un chico alto, joven,
-de pelo negro engominado, parecía ser más dicharachero con los clientes y se
-movía con más espectáculo: los brebajes salían de la coctelera desde posiciones
-más altas, creando arcos de líquido en el aire bajo el control de su mano y
+Sonreía, pero con cordialidad profesional. A su lado, un chico alto, joven, de
+pelo negro engominado, parecía ser más dicharachero con los clientes y se movía
+con más espectáculo: los brebajes salían de la coctelera desde posiciones más
+altas, creando arcos de líquido en el aire bajo el control de su mano y
 voluntad, y entregaba el cóctel con gesto de explicar algo. Al final de aquella
 barra de color blanco con acentos dorados, una chica de pelo castaño, con gafas,
 se movía más suavemente. Ella era como una hormiguita que trabajaba cada bebida
@@ -222,7 +222,7 @@ peleando... como teniendo que demostrar ser fuerte... y... luego...
 defenderme... Ella me escuchaba atentamente... Estaba cansada. Descansa,
 entonces. Descansa en mí, Selena. Mi voluntad se fue fundiendo y me abrí a las
 preguntas que ella le hacía a mi cuerpo en cada compás. Me entregué. No hubo
-caída. No hubo trampa. No me hizo caer del columpio ni se rió de mí. No me hizo
+caída. No hubo trampa. No me hizo caer del columpio ni se rio de mí. No me hizo
 el amor para burlarse de mis dolores. ¿Esto es entregarse _bien_? ¿Esto? Noté la
 mano de ella acariciándome la nuca otra vez y un ligero mordisco tierno en mi
 oreja... Le fui respondiendo. Corto, corto, largo... Ya iba sola. No pensaba.

@@ -56,7 +56,7 @@ mueca, le arregló un mechón de su pelo diciéndole:
 --¡Hala, tonto! --le dijo, pegándole en el hombro.
 
 Se rieron. Ella bebió más vino. Ya estaba bastante borracha también, pero era
-noche de fiesta. Un compañero de armas que estaba al lado de ellos se rió
+noche de fiesta. Un compañero de armas que estaba al lado de ellos se rio
 también. Sí, había escuchado algo la conversación y no dudo en agarrarla del
 brazo para proponerle presentarle a su hermana menor. Ella sabía de quién se
 trataba y se hizo la coqueta.
@@ -142,7 +142,7 @@ trabaron una cierta amistad. Sin embargo, Diotima una noche la insultó
 llamándola "cerda safista impiadosa que deshonra a las muchachas" y eso provocó
 que Eleutería se alejara de ella. Finalmente, a la vuelta de Arístides, que
 volvió herido, Diotima decidió anular la boda, aunque a él la escena entre ella
-y su hermana le dolió de suma manera al enterarse. 
+y su hermana le dolió de suma manera al enterarse.
 
 Durante un tiempo, convalesciente, se sintió vacío y melancólico. Entonces fue
 cuando su hermana le dijo aquellas palabras: "Los amores de verdad que se
@@ -248,7 +248,7 @@ ella.
 tienes.
 
 Eleutería se sonrió. Acarició los pelos desordenadísimos de Galatea y revisó una
-marca que le había dejado en el hombro. 
+marca que le había dejado en el hombro.
 
 Tras un vaso de leche de cabra caliente, pan algo duro con mantequilla y un poco
 de fruta, aquella mañana las dos decidieron dar un paseo a la costa. Llegaron al
@@ -257,10 +257,10 @@ mar. Se encontraron ahí a Arístides, sentado, despierto y absorto mirando el
 horizonte. Él se alegró de verlas juntas, visiblemente desarregladas, pero con
 sendas sonrisas en sus rostros. Les contó que él no había dormido en toda la
 noche y se había retirado al risco no mucho más tarde de darse cuenta de que su
-hermana había huido con una amante. Eleutería notó un rastro de vino en el
-suelo junto a unos trozos de cordero que habían sido quemados con una pequeña
-vara carbonizada que yacía a un lado. Se sonrió y besó en la mejilla a su
-hermano diciéndole, al oído:
+hermana había huido con una amante. Eleutería notó un rastro de vino en el suelo
+junto a unos trozos de cordero que habían sido quemados con una pequeña vara
+carbonizada que yacía a un lado. Se sonrió y besó en la mejilla a su hermano
+diciéndole, al oído:
 
 --Gracias.
 
