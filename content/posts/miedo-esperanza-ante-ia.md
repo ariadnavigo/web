@@ -15,7 +15,7 @@ cuestión. Simplemente necesito escribir sobre ello.
 
 Y esto mismo es quizás lo primero que me gustaría tocar: la necesidad humana de
 expresarse. Aunque esta se caracterice muchas veces como una necesidad --o
-bendición o maldición-- del _artista,_ esta es más bien común todos los seres
+bendición o maldición-- del _artista,_ esta es más bien común a todos los seres
 humanos. No olvidemos que Roman Jakobson atribuía la función emotiva del
 lenguaje[^1] a, justamente, al lenguaje humano. Por tanto, se la atribuía como
 capacidad a todos los emisores posibles y no exclusivamente a una subclase de
