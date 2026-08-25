@@ -250,7 +250,7 @@ máquina puede hacer eso. Tú y yo, en cambio, sí.
 
 [^4]:
     Coseriu, E. (1952). _Sistema, norma y habla._
-    [https://coseriu.ch/wp-content/uploads/publications_coseriu/coseriu8.pdf].
+    <https://coseriu.ch/wp-content/uploads/publications_coseriu/coseriu8.pdf>.
     Al final, Soy una funcional-estructuralista rematada en lo filosófico por
     muy generativa y formalista que pueda ser en la _implementación_ de modelos.
     La filosofía del lenguaje de Chomsky y de la tradición generativa amplia (es
