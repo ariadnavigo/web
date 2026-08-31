@@ -1,0 +1,54 @@
+[home]
+other = "Inicio"
+
+[posts]
+other = "Escritos"
+
+[about]
+other = "Acerca de"
+
+[tags]
+other = "Etiquetas"
+
+[previous]
+other = "Anterior"
+
+[next]
+other = "Siguiente"
+
+[back]
+other = "Volver"
+
+[updated]
+other = "Actualizado"
+
+[readingTime]
+one = "{{ .Count }} minuto"
+other = "{{ .Count }} minutos"
+
+[tableOfContents]
+other = "Índice"
+
+[draft]
+other = "BORRADOR"
+
+[toggleNavigation]
+other = "Mostrar/ocultar navegación"
+
+[pageNotFound]
+other = "Seguramente esto no sea lo que estabas buscando..."
+
+[GoBackToHome]
+other = "Volver a la página de inicio"
+
+[contentLinked]
+other = "Contenido etiquetado bajo"
+
+[consultoria]
+other = "Consultoría lingüística"
+
+[contacto]
+other = "Contacto"
+
+[rss]
+other = "Feed RSS"
