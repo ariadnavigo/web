@@ -1,0 +1,45 @@
+[home]
+other = "Home"
+
+[posts]
+other = "Writings (Spanish)"
+
+[about]
+other = "About"
+
+[tags]
+other = "Tags (Spanish)"
+
+[previous]
+other = "Previous"
+
+[next]
+other = "Next"
+
+[back]
+other = "Back"
+
+[updated]
+other = "Updated"
+
+[readingTime]
+one = "{{ .Count }} minute"
+other = "{{ .Count }} minutes"
+
+[tableOfContents]
+other = "Table of Contents"
+
+[draft]
+other = "DRAFT"
+
+[toggleNavigation]
+other = "Toggle Navigation"
+
+[pageNotFound]
+other = "For sure this is not what you are looking for..."
+
+[GoBackToHome]
+other = "Return to Homepage"
+
+[contentLinked]
+other = "Content Linked To"
