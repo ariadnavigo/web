@@ -58,3 +58,8 @@ path = "github.com/hugomods/images"
 label = "Spanish"
 locale = "es"
 weight = 1
+
+[languages.en]
+label = "English"
+locale = "es"
+weight = 2
