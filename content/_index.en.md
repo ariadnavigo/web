@@ -17,7 +17,7 @@ write short stories, but I might also publish essays from time to time. Now,when
 I decided to build this site, I promised myself that I would explore this craft
 of mine without rushing it and totally free from the pressure of the
 "Algorithmic Internet." Therefore, I'm not following any publishing schedule on
-my site. You'll find my work [here.][escritos]
+my site. You'll find my work [here (redirects to Spanish site).][escritos]
 
 I'm also an occasional _amateur_ programmer; something I inherited from my
 grandpa, who was an electrical engineer, and taught me the basics on his old ZX
@@ -45,8 +45,6 @@ And I wish you all lots of love.
 
 ![Ariadna (June 2026)](ari.jpg?width=400#center)
 
-<!-- FIXME: links should follow i18n settings -->
-
-[consultoria]: /consultoria
+[consultoria]: /en/consultoria
 [escritos]: /posts
 [github]: https://github.com/ariadnavigo
