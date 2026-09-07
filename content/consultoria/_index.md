@@ -11,21 +11,20 @@ author = "Ariadna"
 Como lingüista, ofrezco a empresas y particulares una amplia variedad de
 servicios de consultoría lingüística:
 
-- Redacción y corrección de textos: informes, obras literarias o de no-ficción,
-  material didáctico, documentación interna, solicitudes para la administración,
-  etc.
-- Traducción (excepto jurada): inglés, español, catalán, italiano, alemán (y
+- _Redacción y corrección de textos:_ informes, obras literarias o de
+  no-ficción, material didáctico, documentación interna, solicitudes para la
+  administración, etc.
+- _Traducción_ (excepto jurada): inglés, español, catalán, italiano, alemán (y
   lenguas clásicas)
-- Auditoría: competencias lingüísticas, creación o revisión de libro de estilo y
-  adecuación de herramientas lingüísticas.
-- Asesoramiento en lingüística teórica (en especial para proyectos de
-  investigación o empresas de vanguardia): consultoría en modelos lingüísticos
+- _Auditoría:_ competencias lingüísticas, creación o revisión de libro de estilo
+  y evaluación de herramientas lingüísticas
+- _Asesoramiento en lingüística teórica_ (en especial para proyectos de
+  investigación o empresas tecnológicas): consultoría en modelos lingüísticos
   sintácticos, semánticos o lexicológicos (para lingüística computacional, por
   ejemplo), asesoramiento científico para proyectos historiográficos, etc.
-- Asesoramiento en comunicación, creación de etiquetas conceptuales, identidad,
-  etc.
+- Asesoramiento en comunicación, identidad, etc.
 
-He enido el placer de trabajar en proyectos que han abarcado industrias muy
+He tenido el placer de trabajar en proyectos que han abarcado industrias muy
 diversas: editoriales, proyectos de I+D, proyectos educativos, entre otros. A su
 vez, también con particulares, en la revisión de manuscritos de la más diversa
 índole, incluyendo obras de artistas. El objetivo siempre es conseguir que el
