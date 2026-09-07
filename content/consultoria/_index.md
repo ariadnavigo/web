@@ -1,6 +1,6 @@
 +++
 title = "Consultoría lingüística"
-date = "2026-06-04T13:03:55+02:00"
+date = '2026-09-07T19:24:11+02:00'
 author = "Ariadna"
 +++
 
@@ -8,78 +8,30 @@ author = "Ariadna"
 
 # CONSULTORÍA LINGÜÍSTICA
 
-Creo que una pequeña historia viene como anillo al dedo para introducir qué son
-los servicios de consultoría lingüística.
+Como lingüista, ofrezco a empresas y particulares una amplia variedad de
+servicios de consultoría lingüística:
 
-Estás entrando a una cafetería, por la mañana. Vas atareada. Apenas pudiste
-comprobar que metiste todo lo necesario para el día en tu bolso y que te queda
-bien el conjunto. Además, te han llamado para decirte que tu hijo se ha puesto
-malo en el cole y, aunque tu pareja ha ido a buscarlo y te ha asegurado que "no
-es nada, que ahora lo llevamos al médico, pero no es nada", tú te has quedado
-preocupada. En media hora tienes una reunión fundamental para el futuro de tu
-negocio. Estás francamente agobiada y sientes los primeros avisos de una niebla
-mental que viene acompañada de retortijones y nervios.
+- Redacción y corrección de textos: informes, obras literarias o de no-ficción,
+  material didáctico, documentación interna, solicitudes para la administración,
+  etc.
+- Traducción (excepto jurada): inglés, español, catalán, italiano, alemán (y
+  lenguas clásicas)
+- Auditoría: competencias lingüísticas, creación o revisión de libro de estilo y
+  adecuación de herramientas lingüísticas.
+- Asesoramiento en lingüística teórica (en especial para proyectos de
+  investigación o empresas de vanguardia): consultoría en modelos lingüísticos
+  sintácticos, semánticos o lexicológicos (para lingüística computacional, por
+  ejemplo), asesoramiento científico para proyectos historiográficos, etc.
+- Asesoramiento en comunicación, creación de etiquetas conceptuales, identidad,
+  etc.
 
-Te atiende la barista de siempre. Delante de ti, un niño grita demasiado y te
-perfora los oídos. Das un resoplido, aferrándote a la carpeta con documentación,
-y, con el alma hecha un incendio, de tu boca sale:
+He enido el placer de trabajar en proyectos que han abarcado industrias muy
+diversas: editoriales, proyectos de I+D, proyectos educativos, entre otros. A su
+vez, también con particulares, en la revisión de manuscritos de la más diversa
+índole, incluyendo obras de artistas. El objetivo siempre es conseguir que el
+uso del lenguaje sea el mejor posible, pero respetando en todo momento el alma y
+la intención de los autores, con total discreción y pronta entrega.
 
---¡Hola, Anna! ¿Cómo estás?
-
---¡Hola! ¿Qué vas a tomar? --te contesta ella.
-
---Un café con leche y un _croissant_ de jamón y queso, por favor, que llevo un
-día...
-
-Lo has dicho todo con efectividad, buenas maneras y sin transmitir nada del
-volcán que llevas dentro aquella mañana.
-
----
-
-Todos sabemos que en la comunicación no solo existe la _corrección_ gramatical,
-sino que nos la jugamos mucho más en la _adecuación._ En la historieta de antes,
-todos entendemos que, por mucho que el día pintase bastante mal, es evidente que
-nuestro estrés no ha de acabar en una salida de tono que le faltase el respeto a
-la barista. Es obviamente un ejemplo trivial, pero ilustra bastante bien que,
-hasta en las interacciones más cotidianas, es importantísimo cuidar cómo nos
-comunicamos en sociedad.
-
-Como consultora lingüística mi trabajo, evidentemente, se enfrenta a situaciones
-muy distintas a la narrada arriba. Sin embargo, el elemento común es buscar _la
-mejor_ manera para articular nuestra comunicación. Si tienes una empresa o un
-proyecto, es muy probable que, en algún aspecto, requiera o un texto o un
-discurso y sabes lo importante que es que sea:
-
-- Correcto gramaticalmente, por descontado
-- Claro, efectivo y adecuado para la situación
-- Estilísticamente representativo
-
-Soy doctora en Lingüística, especializada en sintaxis y en semántica (U. Pompeu
-Fabra, 2016), y con el bagaje literario que me ofreció estudiar primeramente la
-licenciatura en Filología Hispánica (U. de Navarra, 2011). Mi función es
-ayudarte a ti y a tu equipo a que vuestra producción de textos y discurso vaya
-más allá de lo "correcto" y alcance estándares de excelencia que marquen la
-diferencia.
-
-A lo largo de los años he trabajado con editoriales, fundaciones, proyectos de
-investigación y todo tipo de empresas y profesionales. El lenguaje está presente
-en todo: está escondido en los procesos internos de una empresa, como también
-las publicaciones que salen a mercado. Y no solo respecto de empresas. Muchas
-veces he acompañado en la creación y producción textos de cuya forma dependían
-éxitos muy personales para artistas, creadores y particulares que trabajan en
-áreas de toda índole.
-
-He vivido y vaya que he vivido; quizás [mis escritos][escritos] lo muestran.
-Tanta vida, además de la extensa formación, me ha enseñado de filosofía,
-derecho, economía, política, arte, moda, fotografía, ciencias informáticas y
-tantas otras disciplinas, no como especialista, obviamente, pero sí para
-ubicarme en las necesidades lingüísticas y textuales de otras personas. No
-existe lenguaje sin una realidad y vivir la realidad es lo que hace que la
-práctica y el conocimiento humanos en el discurso y los textos sean
-irremplazables.
-
-Si deseas contarme en qué quieres que trabaje contigo y tu equipo, puedes
-hacerlo mandándome un mensaje a [info@ariadnavigo.com][email].
-
-[escritos]: /posts
-[email]: mailto:info@ariadnavigo.com
+Si estáis interesados en que veamos juntos en qué puedo ser de ayuda o consultar
+un presupuesto, podéis contactar conmigo a través de esta dirección de email:
+<info@ariadnavigo.com>
