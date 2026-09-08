@@ -28,8 +28,8 @@ diverse industries, e.g., publishing houses, R+D projects, educational projects,
 among others. In addition to my work for companies and institutions, I've also
 worked for individuals assisting in the development of manuscripts, including
 artistic works. My mission is to always seek out the best way of expressing what
-the authors want and need, in their own voice, and always with the utmost
-confidentiality and reliably fast delivery schedules.
+the authors want and need, in their own voice. Personal data is always protected
+and all the required and desired confidentiality is always provided.
 
 If you're interested in me having a look at your linguistic needs or ask for a
 budget, just send me an email me to the following address:
