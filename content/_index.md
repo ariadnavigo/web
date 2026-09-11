@@ -4,6 +4,8 @@ date = "2026-06-04T12:20:12+02:00"
 author = "Ariadna"
 +++
 
+[_English version_](/en)
+
 ¡Hola!
 
 Mi nombre es Ariadna y os doy la bienvenida a mi web. Soy doctora en lingüística
