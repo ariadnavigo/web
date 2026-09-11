@@ -15,46 +15,84 @@ palette = "dracula"
 showPostsSummary = "true"
 
 author = "Ariadna Vigo"
+
+# Are these even used?
 subtitle = "Relatos y otros textos de la lingüista Ariadna Vigo"
 keywords = "lingüista, correcciones, consultoría, lenguas, narrativa, poesía, ensayo"
-
-[menu]
-[[menu.main]]
-identifier = "home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-identifier = "consultoria"
-url = "/consultoria"
-weight = 2
-
-[[menu.main]]
-identifier = "posts"
-url = "/posts"
-weight = 3
-
-[[menu.main]]
-identifier = "tags"
-url = "/tags"
-weight = 4
-
-[[menu.main]]
-identifier = "contacto"
-url = "/contacto"
-weight = 5
-
-[[menu.main]]
-identifier = "rss"
-url = "/index.xml"
-weight = 8
-
-[module]
-[[module.imports]]
-path = "github.com/hugomods/images"
 
 [languages]
 [languages.es]
 label = "Spanish"
 locale = "es"
 weight = 1
+
+[languages.es.menu]
+[[languages.es.menu.main]]
+identifier = "home"
+url = "/"
+weight = 1
+
+[[languages.es.menu.main]]
+identifier = "consultoria"
+url = "/consultoria"
+weight = 2
+
+[[languages.es.menu.main]]
+identifier = "posts"
+url = "/posts"
+weight = 3
+
+[[languages.es.menu.main]]
+identifier = "tags"
+url = "/tags"
+weight = 4
+
+[[languages.es.menu.main]]
+identifier = "contacto"
+url = "/contacto"
+weight = 5
+
+[[languages.es.menu.main]]
+identifier = "rss"
+url = "/index.xml"
+weight = 8
+
+# [[languages.es.menu.main]]
+# name = "English"
+# url = "en/"
+# weight = 9
+
+[languages.en]
+label = "English"
+locale = "en"
+weight = 2
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "home"
+url = "/en"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "consultoria"
+url = "/en/consultoria"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "contacto"
+url = "/en/contacto"
+weight = 5
+
+[[languages.en.menu.main]]
+identifier = "rss"
+url = "/en/index.xml"
+weight = 8
+
+# [[languages.en.menu.main]]
+# name = "Spanish"
+# url = "/"
+# weight = 9
+
+[module]
+[[module.imports]]
+path = "github.com/hugomods/images"
