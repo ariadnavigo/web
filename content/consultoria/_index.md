@@ -27,10 +27,10 @@ servicios de consultoría lingüística:
 He tenido el placer de trabajar en proyectos que han abarcado industrias muy
 diversas: editoriales, proyectos de I+D, proyectos educativos, entre otros. A su
 vez, también con particulares, en la revisión de manuscritos de la más diversa
-índole, incluyendo obras de artistas. El objetivo siempre es conseguir que el
-uso del lenguaje sea el mejor posible y respetando en todo momento el alma y la
-intención de los autores. En todo momento se guarda la protección de datos y la
-confidencialidad necesarias para cada proyecto.
+índole, incluyendo obras de artistas. El objetivo siempre es conseguir que mis
+clientes puedan expresar su mensaje de la mejor manera posible y siempre
+respetando su voz única y especial. En todo momento se guarda la protección de
+datos y la confidencialidad necesarias para cada proyecto.
 
 Si estáis interesados en que veamos juntos en qué puedo ser de ayuda o consultar
 un presupuesto, podéis contactar conmigo a través de esta dirección de email:
