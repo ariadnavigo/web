@@ -28,12 +28,6 @@ for new challenging horizons. In fact, this very website is written, built, and
 deployed 100% with open source tools; you may find the code running this site on
 [GitHub,][github] as well as code for other projects of mine.
 
-Y "contengo muchas multitudes" más, parafraseando al poeta: desde el amor por la
-filosofía, el derecho, el arte y la técnica, pasando por una vida de aventuras,
-retos y mucha experiencia tanto en lo más palaciego como en lo más humilde...
-hasta llegar al punto presente, llena yo de sedimento y de una vida muy vivida.
-Confío que en mis textos y en mi trabajo eso siempre está presente.
-
 Riffing on Whitman's verse, "I contain (many more) multitudes". From love,
 philosophy, law, art, and tech, to a life full of adventure, challenges, and
 many, many experiences from the highest to the lowest... And now, in this
