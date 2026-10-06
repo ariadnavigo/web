@@ -18,14 +18,7 @@ Aprovecho también esta web para publicar principalmente relatos, aunque
 eventualmente pueda publicar algún ensayo. Cuando decidí crear este sitio, me
 prometí que este sería un lugar donde seguir los caminos de la escritura sin
 prisas ni presiones de algoritmos, por lo que no sigo aquí ningún calendario de
-publicaciones. Encontraréis todos mis escritos [aquí.][escritos]
-
-De vez en cuando, escribo código como programadora _amateur_ (una pequeña
-herencia que me dejó mi abuelo materno a través de su vieja ZX Spectrum).
-Normalmente me manejo en C y en _shell scripting,_ pero siempre estoy explorando
-nuevos horizontes. Esta web está hecha con herramientas 100% abiertas y, de
-hecho, tanto el código de esta web como mis demás proyectos están publicados en
-[GitHub][github].
+publicaciones. Podéis leer mis publicaciones [aquí.][escritos]
 
 Y "contengo muchas multitudes" más, parafraseando al poeta: desde el amor por la
 filosofía, el derecho, el arte y la técnica, pasando por una vida de aventuras,
@@ -39,6 +32,8 @@ os digo aquí: _Pasad, pasad a ver esta web._
 Os deseo mucho amor.
 
 ![Ariadna (Junio 2026)](ari.jpg?width=400#center)
+
+Esta web está construida con herramientas de [código abierto.][github]
 
 [consultoria]: /consultoria
 [escritos]: /posts
