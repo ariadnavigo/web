@@ -31,7 +31,7 @@ os digo aquí: _Pasad, pasad a ver esta web._
 
 Os deseo mucho amor.
 
-![Ariadna (Junio 2026)](ari.jpg?width=400#center)
+![Ariadna (Octubre 2026)](ari.jpg?width=400#center)
 
 Esta web está construida con herramientas de [código abierto.][github]
 
