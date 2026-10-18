@@ -32,7 +32,7 @@ you to: _Come in, come in, and feel at home at this website!_
 
 And I wish you all lots of love.
 
-![Ariadna (June 2026)](ari.jpg?width=400#center)
+![Ariadna (October 2026)](ari.jpg?width=400#center)
 
 This website is built [with open source tools.][github]
 
