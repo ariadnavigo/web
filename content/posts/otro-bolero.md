@@ -2,7 +2,7 @@
 title = 'Otro bolero'
 date = 2026-10-20T12:42:03+02:00
 author = 'Ariadna'
-tags = ['cuento corto']
+tags = ['microcuento']
 +++
 
 Al ver que una mano delicada con una manicura bellísima como de ondas blancas en
