@@ -25,7 +25,7 @@ cabeza de altura. La de rizos castaños seguía y, progresivamente, fue cerrando
 sus ojos y de un abrazo incómodo pasó a posar su mano en el pecho de su
 inesperada guía. Entre las sombras de aquella esquina lejana, se fundieron en
 pasos breves y ligeros, sin vueltas, sin piruetas, sin hablarse y solo mirándose
-a través del contacto de sus pieles. Al mitad de aquella canción antigua, la
+a través del contacto de sus pieles. A mitad de aquella canción antigua, la
 chica de pelo castaño posó su mejilla sobre el pecho de piel blanca de la rubia.
 
 Entonces, la rubia le acarició la nuca cuando sintió un par de lágrimas recorrer
