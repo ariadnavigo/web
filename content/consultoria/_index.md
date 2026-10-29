@@ -11,13 +11,13 @@ author = "Ariadna"
 Como lingüista, ofrezco a empresas y particulares una amplia variedad de
 servicios de consultoría lingüística:
 
-- **Análisis y consultoría lingüística:** En este rol actúo como consultora como
-  experta en lenguaje y, en particular, en diversas lenguas. Aquí se incluyen
-  servicios como, por ejemplo, los siguientes: asesoramiento general sobre
-  lengua y lenguaje, análisis de textos para sectores técnicos, propuestas de
-  libros de estilo, análisis teórico e implementación de modelos de lenguaje
-  (por ejemplo, para proyectos de I+D), trabajo de campo para proyectos
-  historiográficos o sociales, etc.
+- **Análisis y consultoría:** En este rol actúo como consultora como experta en
+  lenguaje y, en particular, en diversas lenguas. Aquí se incluyen servicios
+  como, por ejemplo, los siguientes: asesoramiento general sobre lengua y
+  lenguaje, análisis de textos para sectores técnicos, propuestas de libros de
+  estilo, análisis teórico e implementación de modelos de lenguaje (por ejemplo,
+  para proyectos de I+D), trabajo de campo para proyectos historiográficos o
+  sociales, etc.
 - **Corrección de textos:** Corrijo el estilo y la ortotipografía para textos de
   ficción, no-ficción, administrativos, de publicidad, manuales técnicos, etc.
 - **Traducción:** Ofrezco traducciones en pares lingüísticos que incluyen el
