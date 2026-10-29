@@ -11,26 +11,32 @@ author = "Ariadna"
 The following are the professional services I offer as a linguist to both
 businesses and individuals:
 
-- _Drafting and proofreading:_ reports, literary and non-fiction works, teaching
-  materials, internal documentation, application to gov't grants, etc.
-- _Translation_ (except legal): English, Spanish, Catalan, Italian, German (+
-  Latin/Ancient Greek)
-- _Auditing:_ language competence, drafting or reviewing style guidelines, and
-  evaluating language-related tools.
-- _Research support in Theoretical Linguistics_ (especially research projects or
-  tech-related companies): linguistic analysis frameworks for syntax, semantics
-  or lexicology (e.g., for Computational Linguistics); support for
-  historiographical research, etc.
-- PR and communication support, branding, etc.
+- **Language advisory and consulting:** As your language expert consultant, I
+  offer you and your team services like: advice and technical knowledge about
+  language or a language in particular (and its culture), analysis for
+  specialized industries, proposals for the creation of style guides/books,
+  theoretical analysis and implementation of language models (especially in
+  R+D), field work and expert analysis for projects in the Social Sciences and
+  the Humanities, etc.
+- **Drafting and proofreading:** I conduct proofreading for a variety of works:
+  fiction, non-fiction, reports, technical manuals, etc.
+- **Translation:** I offer translations within Spanish, English, and Catalan
+  language pairs, with other Western languages as a possibility (depending on
+  the material). _Legal translations are not available._
 
-Throughout the years I've had the pleasure of working in projects within many
-diverse industries, e.g., publishing houses, R+D projects, educational projects,
-among others. In addition to my work for companies and institutions, I've also
-worked for individuals assisting in the development of manuscripts, including
-artistic works. My mission is to always seek out the best way for my clients to
-share their message in their own voice. Personal data is always protected and
-all the required and desired confidentiality is always provided.
+In every project I make sure to go the extra mile, beyond _just_ submitting a
+final result to my clients. I believe in making you part of the process, with
+reliable and constant communication, making sure your ideas and needs are
+satisfied in every step along the way. Regardless of whether it's a proofreading
+job, a translation, or a more in-depth language consultancy session, I want
+_your_ project to shine with the best language.
 
-If you're interested in me having a look at your linguistic needs or ask for a
-budget, just send me an email me to the following address:
+For already more than a decade, I've had the pleasure of working in projects
+within many diverse industries, e.g., publishing houses, R+D projects,
+scientific papers, education and arts projects, analysis of historical
+manuscrupts, as well as advising tech companies and public and political
+communication projects... and that's just a part of it!
+
+If you're interested in me having a look at your linguistic needs or would like
+to ask for a budget, just send me an email me to the following address:
 <info@ariadnavigo.com>
