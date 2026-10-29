@@ -11,27 +11,32 @@ author = "Ariadna"
 Como lingüista, ofrezco a empresas y particulares una amplia variedad de
 servicios de consultoría lingüística:
 
-- _Redacción y corrección de textos:_ informes, obras literarias o de
-  no-ficción, material didáctico, documentación interna, solicitudes para la
-  administración, etc.
-- _Traducción_ (excepto jurada): inglés, español, catalán, italiano, alemán (y
-  lenguas clásicas)
-- _Auditoría:_ competencias lingüísticas, creación o revisión de libro de estilo
-  y evaluación de herramientas lingüísticas
-- _Asesoramiento en lingüística teórica_ (en especial para proyectos de
-  investigación o empresas tecnológicas): consultoría en modelos lingüísticos
-  sintácticos, semánticos o lexicológicos (para lingüística computacional, por
-  ejemplo), asesoramiento científico para proyectos historiográficos, etc.
-- Asesoramiento en comunicación, identidad, etc.
+- **Análisis y consultoría lingüística:** En este rol actúo como consultora como
+  experta en lenguaje y, en particular, en diversas lenguas. Aquí se incluyen
+  servicios como, por ejemplo, los siguientes: asesoramiento general sobre
+  lengua y lenguaje, análisis de textos para sectores técnicos, propuestas de
+  libros de estilo, análisis teórico e implementación de modelos de lenguaje
+  (por ejemplo, para proyectos de I+D), trabajo de campo para proyectos
+  historiográficos o sociales, etc.
+- **Corrección de textos:** Corrijo el estilo y la ortotipografía para textos de
+  ficción, no-ficción, administrativos, de publicidad, manuales técnicos, etc.
+- **Traducción:** Ofrezco traducciones en pares lingüísticos que incluyen el
+  español, el inglés y el catalán, además de otras posibilidades para otras
+  lenguas europeas. _No se ofrecen traducciones juradas._
 
-He tenido el placer de trabajar en proyectos que han abarcado industrias muy
-diversas: editoriales, proyectos de I+D, proyectos educativos, entre otros. A su
-vez, también con particulares, en la revisión de manuscritos de la más diversa
-índole, incluyendo obras de artistas. El objetivo siempre es conseguir que mis
-clientes puedan expresar su mensaje de la mejor manera posible y siempre
-respetando su voz única y especial. En todo momento se guarda la protección de
-datos y la confidencialidad necesarias para cada proyecto.
+En cada encargo o proyecto, os acompaño a los clientes mucho más allá de
+simplemente entregarle un resultado al final de mi actuación. Durante todo el
+proceso estoy en constante comunicación con vosotros para ir aclarando todo lo
+que se pueda a lo largo del proceso, ya sea en una corrección o en una
+traducción o en una actuación de asesoramiento. Al final, se trata siempre de
+que _vuestro_ proyecto brille con la excelencia lingüística que buscáis.
 
-Si estáis interesados en que veamos juntos en qué puedo ser de ayuda o consultar
-un presupuesto, podéis contactar conmigo a través de esta dirección de email:
-<info@ariadnavigo.com>
+A lo largo de más de una década de experiencia, he tenido el placer de trabajar
+en proyectos que han abarcado industrias muy diversas: editoriales, proyectos de
+I+D, artículos científicos, proyectos educativos y artísticos, análisis de
+manuscritos históricos y asesoramiento tanto para empresas tecnológicas como
+para proyectos de comunicación pública y política, entre muchos otros sectores.
+
+Si estáis interesados en que veamos juntos en qué puedo ser de ayuda o en
+consultar un presupuesto, podéis contactar conmigo a través de esta dirección de
+email: <info@ariadnavigo.com>
