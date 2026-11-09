@@ -16,8 +16,9 @@ businesses and individuals:
   language or a language in particular (and its culture), analysis for
   specialized industries, proposals for the creation of style guides/books,
   theoretical analysis and implementation of language models (especially in
-  R+D), field work and expert analysis for projects in the Social Sciences and
-  the Humanities, etc.
+  R+D), creation and review of specialized terminology and semantic/knowledge
+  graphs (e.g., ontologies), field work and expert analysis for projects in the
+  Social Sciences and the Humanities, etc.
 - **Drafting and proofreading:** I conduct proofreading for a variety of works:
   fiction, non-fiction, reports, technical manuals, etc.
 - **Translation:** I offer translations within Spanish, English, and Catalan
