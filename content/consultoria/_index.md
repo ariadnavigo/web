@@ -16,8 +16,9 @@ servicios de consultoría lingüística:
   como, por ejemplo, los siguientes: asesoramiento general sobre lengua y
   lenguaje, análisis de textos para sectores técnicos, propuestas de libros de
   estilo, análisis teórico e implementación de modelos de lenguaje (por ejemplo,
-  para proyectos de I+D), trabajo de campo para proyectos historiográficos o
-  sociales, etc.
+  para proyectos de I+D), creación y revisión de terminología y redes semánticas
+  (ontologías), trabajo de campo para proyectos historiográficos o sociales,
+  etc.
 - **Corrección de textos:** Corrijo el estilo y la ortotipografía para textos de
   ficción, no-ficción, administrativos, de publicidad, manuales técnicos, etc.
 - **Traducción:** Ofrezco traducciones en pares lingüísticos que incluyen el
