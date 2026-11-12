@@ -11,33 +11,33 @@ author = "Ariadna"
 The following are the professional services I offer as a linguist to both
 businesses and individuals:
 
-- **Language advisory and consulting:** As your language expert consultant, I
-  offer you and your team services like: advice and technical knowledge about
+- **Language advisory &:e consulting:** As your language expert consultant, I
+  offer you and your team services such as advice and technical knowledge about
   language or a language in particular (and its culture), analysis for
   specialized industries, proposals for the creation of style guides/books,
   theoretical analysis and implementation of language models (especially in
-  R+D), creation and review of specialized terminology and semantic/knowledge
-  graphs (e.g., ontologies), field work and expert analysis for projects in the
+  R&D), creation and review of specialized terminology and semantic/knowledge
+  graphs (e.g., ontologies), fieldwork and expert analysis for projects in the
   Social Sciences and the Humanities, etc.
-- **Drafting and proofreading:** I conduct proofreading for a variety of works:
+- **Proofreading & editing:** I conduct proofreading for a variety of works:
   fiction, non-fiction, reports, technical manuals, etc.
 - **Translation:** I offer translations within Spanish, English, and Catalan
   language pairs, with other Western languages as a possibility (depending on
-  the material). _Legal translations are not available._
+  the material). _Certified/sworn translations are not available._
 
 In every project I make sure to go the extra mile, beyond _just_ submitting a
 final result to my clients. I believe in making you part of the process, with
 reliable and constant communication, making sure your ideas and needs are
-satisfied in every step along the way. Regardless of whether it's a proofreading
+satisfied every step along the way. Regardless of whether it's a proofreading
 job, a translation, or a more in-depth language consultancy session, I want
 _your_ project to shine with the best language.
 
-For already more than a decade, I've had the pleasure of working in projects
-within many diverse industries, e.g., publishing houses, R+D projects,
-scientific papers, education and arts projects, analysis of historical
-manuscrupts, as well as advising tech companies and public and political
-communication projects... and that's just a part of it!
+For over a decade, I've had the pleasure of working on projects within many
+diverse industries, e.g., publishing houses, R+D projects, scientific papers,
+education and arts projects, analysis of historical manuscripts, as well as
+advising tech companies and public and political communication projects... and
+that's just a part of it!
 
 If you're interested in me having a look at your linguistic needs or would like
-to ask for a budget, just send me an email me to the following address:
+to request a quote, just send me an email at the following address:
 <info@ariadnavigo.com>
