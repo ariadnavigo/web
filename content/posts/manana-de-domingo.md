@@ -1,5 +1,5 @@
 +++
-title = "Manaña de domingo"
+title = "Mañana de domingo"
 date = '2026-06-02T14:44:58+02:00'
 author = "Ariadna"
 tags = ["cuento corto"]
@@ -10,29 +10,30 @@ ventana. ¿Qué hora sería? Seguramente más temprano de lo que era una hora
 razonable como para despertarse un domingo. Desperezándose un poco quiso darse
 la vuelta hacia la izquierda pero se topó con un brazo. No, no solo era un
 brazo... Había también una maraña de pelos rizados y un torso desnudo durmiendo
-de espaldas. En realidad, era una chica entera, mucho más que las sumas de las
+de espaldas. En realidad, era una chica entera, mucho más que la suma de las
 partes que asomaban por entre las sábanas, y que roncaba ligeramente sin
 percatarse de nada de lo que sucedía a su alrededor.
 
 Aquella espalda le volvió a parecer una de las maravillas del mundo. Sintió
 ganas inmensas de volver a tocar esa piel suave de musculatura firme, pero se
-contuvo; no quiso interrumpirle el sueño. Entonces, María sentó con la espalda
-apoyada en el cabecero de la cama.
+contuvo; no quiso interrumpirle el sueño. Entonces, María se sentó con la
+espalda apoyada en el cabecero de la cama.
 
 No, no era una desconocida. Más bien, era todo lo contrario. Era Lucía. ¿Por qué
 se le hacía extraño verla ahí, en la cama con ella? Respiró hondo.
 
-Frente a ella, colgados de mala manera y como derramándose sobre el respaldo la
-silla blanca del tocador, yacían inertes el vestido de motivos florales verdes y
-blancos de ella y el suyo propio más sobrio, de color burdeos. Fugazmente le
-vino a su mente el dibujo que trazaba la caída del pecho de ella contenido en el
-escote la noche anterior... Cómo se movía al ritmo de la respiración y meciendo
-el lunar que reposaba en la parte superior... y... y... ay, cómo le gustaba
-ella, toda ella: desde esos detalles de su cuerpo hasta la rapidez mental para
-llevar la conversación a un lugar mucho más agradable e inteligente en cualquier
-momento... como también lo cariñosa que podía ser... María suspiró y la miró.
-Ahí, dormida como un tronco, con un brazo para cualquier lado, Lucía seguía
-siendo la mujer más hermosa que jamás había conocido.
+Frente a ella, colgados de mala manera y como derramándose sobre el respaldo de
+la silla blanca del tocador, yacían inertes el vestido de motivos florales
+verdes y blancos de ella y el suyo propio más sobrio, de color burdeos.
+Fugazmente le vino a su mente el dibujo que trazaba la caída del pecho de ella
+contenido en el escote la noche anterior... Cómo se movía al ritmo de la
+respiración y meciendo el lunar que reposaba en la parte superior... y... y...
+ay, cómo le gustaba ella, toda ella: desde esos detalles de su cuerpo hasta la
+rapidez mental para llevar la conversación a un lugar mucho más agradable e
+inteligente en cualquier momento... como también lo cariñosa que podía ser...
+María suspiró y la miró. Ahí, dormida como un tronco, con un brazo para
+cualquier lado, Lucía seguía siendo la mujer más hermosa que jamás había
+conocido.
 
 De pronto, escuchó que de las profundidades del alma de Lucía surgía un ruido
 como de palabras sin sentido, a las que siguieron un giro de su cabeza. María
@@ -44,8 +45,8 @@ amago de estiramiento de brazos sin completar.
 haces despierta? ¿No tienes sueño?
 
 Los ojos verdes de Lucía brillaban con un color de miel por el impacto del
-sol... Su boca gruesa... ¡Qué hermosa! Besarlos, qué placer inmenso... Sintió
-ganas, como de un hambre repentino, pero se contuvo.
+sol... Su boca gruesa... ¡Qué hermosa! Esos labios, besarlos, qué placer
+inmenso... Sintió ganas, como de un hambre repentino, pero se contuvo.
 
 --Vaya noche, ¿no? --continuó diciendo.
 
@@ -57,7 +58,7 @@ vaya noche. De salir a cenar algo porque se le ocurrió a última hora a acabar 
 un garito bailando completamente libres, como nunca... María se volvió a ver
 dando aquel beso seductor y casi envenenado y volvió a ver cómo sus manos que se
 asieron a cada una de las partes del cuerpo de Lucía y cómo esta respondió
-devolviendo todo y más... Al final, todo esto acabó una huida sigilosa entre
+devolviendo todo y más... Al final, todo esto acabó en una huida sigilosa entre
 risas para volver a casa... para que, luego... bueno, acabaran acaloradamente
 enredadas del modo más profundo posible. Y ahora, esta mañana, ahí las dos.
 
@@ -85,7 +86,7 @@ inyección de adrenalina. Se acercó a María. Lucía conocía esa mirada; esa s
 también había poblado su rostro en algún momento de su vida. Ay no. Con brazos
 ágiles abrazó a María y llevó su cabeza de pelo castaño ondulado sin definición
 a sus pechos, a esos pechos que la noche anterior habían danzado pícaros dentro
-del vestido que eligiendo muy a sabiendas para la ocasión.
+del vestido que había elegido muy a sabiendas para la ocasión.
 
 ¿Se resistiría María? Entonces, con el corazón lleno de calidez, le dijo lo
 mismo que, hace muchos años atrás, le dijo una amante a ella:
@@ -93,27 +94,26 @@ mismo que, hace muchos años atrás, le dijo una amante a ella:
 --Siéntete orgullosa.
 
 Ahí refugiada en el pecho de Lucía, María se quedó atrapada en los latidos del
-corazón de ella. Quiso entender lo que le había acabado decir Lucía, pero no era
-capaz. ¿Orgullosa de qué? Pum, pum... pum, pum... pum, pum... Eran regulares,
-cálidos... Una mano acariciaba su pelo, rascándole el cuero cabelludo un poco,
-en silencio, pero presente. Podía oler los restos del perfume ajazminado que
-había llevado Lucía la noche anterior, pero la fragancia estaba entremezclada
-con un punto ácido como de sudor y de recuerdos de la noche. Se sentía bien,
-ahí, refugiada, pero no quiso abusar. Se separó y, cogiéndole la mano, quiso
-decir algo, pero no pudo.
+corazón de ella. Quiso entender lo que le había acabado de decir Lucía, pero no
+era capaz. ¿Orgullosa de qué? Pum, pum... pum, pum... pum, pum... Eran
+regulares, cálidos... Una mano acariciaba su pelo, rascándole el cuero cabelludo
+un poco, en silencio, pero presente. Podía oler los restos del perfume
+ajazminado que había llevado Lucía la noche anterior, pero la fragancia estaba
+entremezclada con un punto ácido como de sudor y de recuerdos de la noche. Se
+sentía bien, ahí, refugiada, pero no quiso abusar. Se separó y, cogiéndole la
+mano, quiso decir algo, pero no pudo.
 
 Lucía la miró con cariño y tampoco dijo nada. Consideró mejor no hacerlo y, en
 cambio, acarició la mano de María. Envidió secretamente la suavidad de su piel y
-la finura de esos dedos. Acercó el dorso de su mano a sus labios y, sin besarla,
-la acercó a sus labios y nariz. Pudo oler también en ella la noche pasada. Pensó
-en cómo le encantaba su pelo castaño, cómo parecía saber bailar prácticamente
-todos los ritmos del planeta, su aventura como empresaria y esas piernas... ay,
-las piernas de María... Cómo caminaba con decisión, siempre con aire de _mando_
-casi militar, como de esas heroínas nobles de novela de antaño, y, a la vez,
-ligereza... Y qué inteligente que era... Y... y... y... y ahora la veía rota, a
-punto de llorar y con un temblor en sus labios, pero seguía siendo ella. Fijó su
-mirada en María y se emocionó. Tomando el rostro de ella entre sus manos, le
-regaló un beso largo.
+la finura de esos dedos. Acercó el dorso de su mano a sus labios y nariz, sin
+besarla. Pudo oler también en ella la noche pasada. Pensó en cómo le encantaba
+su pelo castaño, cómo parecía saber bailar prácticamente todos los ritmos del
+planeta, su aventura como empresaria y esas piernas... ay, las piernas de
+María... Cómo caminaba con decisión, siempre con aire de _mando_ casi militar,
+como de esas heroínas nobles de novela de antaño, y, a la vez, ligereza... Y qué
+inteligente que era... Y... y... y... y ahora la veía rota, a punto de llorar y
+con un temblor en sus labios, pero seguía siendo ella. Fijó su mirada en María y
+se emocionó. Tomando el rostro de ella entre sus manos, le regaló un beso largo.
 
 María cerró los ojos durante el beso. Lo sintió húmedo, cálido y divino. A su
 nariz llegaron más fragancias de la piel desnuda de Lucía y quiso desnudarse
@@ -131,4 +131,4 @@ muchacha desatada. Se preparó.
 
 María cedió ante su hambre.
 
-Total, era una mañana de domingo, ¿había alguna otra que hacer?
+Total, era una mañana de domingo, ¿había alguna otra cosa que hacer?
