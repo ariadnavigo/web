@@ -8,7 +8,7 @@ tags = ['cuento corto']
 Aquella tarde de otoño llovía suavemente sobre el pavimento del cementerio. Las
 copas de los árboles a uno de los costados del camino se mecían como sombras
 ante el telón gris e informe que hacía las veces de cielo. No hacía frío aún,
-solo fresco. Los mauseleos, lápidas y tumbas dibujaban los límites entre el
+solo fresco. Los mausoleos, lápidas y tumbas dibujaban los límites entre el
 camino cierto que lo cruzaba por el medio y el incierto que aquellas
 representaban. Un ligero olor a humedad y a hojas que ya comenzaban a
 descomponerse llenaba la atmósfera de esa escena vacía, ni lúgubre ni alegre,
@@ -40,10 +40,10 @@ Se mantuvo de pie delante de la piedra. El viento había ganado algo de
 intensidad y se sentía un poco más frío, pero no llegaba a ser molesto. Con
 gesto adusto, fijó su mirada en el nombre del difunto, el cual ya llevaba unos
 dos años habitando ese agujero. La tumba estaba limpia, sin rastros ni de
-suciedad ni tampoco de ramos, e imagino quién podría estar ocupándose de ella.
+suciedad ni tampoco de ramos, e imaginó quién podría estar ocupándose de ella.
 Suspiró. Sus manos comenzaron a temblar y, por consiguiente, así comenzaba a
 temblar también su paraguas. La respiración, más agitada. La mirada, más
-punzante. Los labios pintados de carmín, se arquearon.
+punzante. Los labios pintados de carmín se arquearon.
 
 --Así que moriste hace dos años, papá... y nadie se atrevió a avisarme.
 
@@ -94,7 +94,7 @@ quiso decirle que sí la quería, pero que ella tenía que entender que él...
 --¡Basta, oh, cállate! --ordenó ella, poniéndose de pie--. Ya no tienes poder
 sobre mí.
 
-La figura tenue pareció estremerse y hacerse pequeña. Tuvo miedo por primera
+La figura tenue pareció estremecerse y hacerse pequeña. Tuvo miedo por primera
 vez. Vio a la mujer. Nunca había visto él a su hija así: bellísima, con aura de
 mando, vestida de rojo fulgurante porque el abrigo se había caído al suelo al
 levantarse ella de improviso. Vio su mirada y reconoció un brillo divino que lo
@@ -124,7 +124,7 @@ aquella alma, como si nunca hubiese existido.
 La muchacha suspiró, sonriendo, y se volvió a poner el abrigo. Se mantuvo en
 silencio con postura recta y digna, como una reina oscura. Se había cumplido el
 destino. Lo único que se movía en la silueta que ella dibujaba contra el cielo
-gris era el abrigo cuando este se le abría un poco abanicada por la brisa leve,
+gris era el abrigo cuando este se le abría un poco abanicado por la brisa leve,
 fría y muy húmeda que soplaba intermitentemente.
 
 Sin mirar atrás, se alejó, volviendo por el camino que había tomado para llegar
