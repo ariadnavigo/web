@@ -34,7 +34,7 @@ espacio, otras que lo hacían pegándose hasta que sus cuerpos parecían
 confundirse en uno solo, otras que intentaban practicar aquello que alguien
 quizás les había enseñado en alguna clase y otras en las que buscaban celebrar
 los muchos años pasados en compañía. Sonaban _standards_ de jazz en versión
-instrumental, algún vals, algun son cubano lentito o tango y, en general, temas
+instrumental, algún vals, algún son cubano lentito o tango y, en general, temas
 que se prestaban a un baile de salón como el de aquella noche. Ellos vestían,
 mayormente, ternos y nosotras, vestidos. Como siempre, nosotras dábamos la nota
 de variedad en colores y formas, mientras que ellos encarnaban una sobriedad
@@ -81,7 +81,7 @@ justamente, una serpiente de bronce que se enroscaba un par de veces. Mis ojos
 siguieron el camino por esos brazos desnudos hasta subir a sus hombros... Sus
 ondas rizadas, negras, acompañaban unas cejas definidas y gruesas que parecían
 estar vivas. Su vestido, como he dicho ya, era escarlata, reveladorísimo,
-especiamente porque ella tenía las curvas que yo jamás había tenido. Su cuerpo
+especialmente porque ella tenía las curvas que yo jamás había tenido. Su cuerpo
 era una armonía de formas que buscaban traviesamente desbordar el vestido. La
 envidié. La envidié mucho. Casi la odié, pero es difícil odiar a una completa
 desconocida que la arrastra a una fuera del borde de la pista de baile con
@@ -152,7 +152,7 @@ más bien, más calor y me avergoncé. La miré con gesto de que dejara de
 torturarme, pero en vez de eso, subió hasta mi nuca. No pude controlarlo: bajé
 la cabeza. Ahora quería gritarle que no parara, pero ¿en un lugar público?
 Escuché el ruido de las copas que servían en la barra. Escuché risas y miradas
-ajenas. No, no, por favor, no pares pero no _aquí..._
+ajenas. No, no, por favor, no pares, pero no _aquí..._
 
 Se detuvo. Su mano atrapó mi nuca y acercó su rostro al mío, pero no
 completamente. Imaginé por un instante que ella me besaría, pero no lo hizo. No.
@@ -192,7 +192,7 @@ misma de mi corazón:
 
 Ese no era mi plan. Yo siempre guío. Mi estómago se revolvió. Mi cabeza me hizo
 verme atrapada entre una serpiente de color de fuego que nacía de las fuentes
-íntimas de ella, reptando por debajo de la falda y atrapándome contra su
+íntimas de ella, reptando por debajo de la falda y atrapándome contra mi
 voluntad para morderme, destruirme... Mi corazón se aceleró. Tuve miedo. Sin
 embargo, antes de que pudiera decir nada en respuesta, su mano me llevaba al
 centro de la pista. No me apretaba, pero sus dedos me pedían que me calmara.
@@ -226,12 +226,12 @@ caída. No hubo trampa. No me hizo caer del columpio ni se rio de mí. No me hiz
 el amor para burlarse de mis dolores. ¿Esto es entregarse _bien_? ¿Esto? Noté la
 mano de ella acariciándome la nuca otra vez y un ligero mordisco tierno en mi
 oreja... Le fui respondiendo. Corto, corto, largo... Ya iba sola. No pensaba.
-Solo quería piel. Más piel. Más aliento suyo en mi cuento. Abrazadas cada vez
-más cerca, mi cabeza buscó hueco debajo su barbilla y el nacimiento de su hombro
-derecho --ella era más alta--. Pude oler la fragancia de sus pechos, ligeramente
-láctea y de sudor alcalino que brillaba un poquito en su piel de sol. Hueles
-bien. Tú también. Su piel acariciaba la mía donde nuestros vestidos lo
-permitían. Me gustas. Corto, corto, largo. La miré, la miré con amor, la miré
+Solo quería piel. Más piel. Más aliento suyo en mi cuello. Abrazadas cada vez
+más cerca, mi cabeza buscó hueco debajo de su barbilla y el nacimiento de su
+hombro derecho --ella era más alta--. Pude oler la fragancia de sus pechos,
+ligeramente láctea y de sudor alcalino que brillaba un poquito en su piel de
+sol. Hueles bien. Tú también. Su piel acariciaba la mía donde nuestros vestidos
+lo permitían. Me gustas. Corto, corto, largo. La miré, la miré con amor, la miré
 con ganas de que no se acabara nunca la canción.
 
 _Dos gardenias para ti... / Que tendrán todo el calor de un beso / De esos besos
@@ -240,9 +240,9 @@ que te di / Y que jamás encontrarás / En el calor de otro querer..._
 Sentí sus pechos besarse con los míos. Sentí su respiración volverse la mía y la
 mía, la suya. No había ya dos alientos, no. Nuestras cabelleras parecían bailar
 entre sí también. Una de mis manos recorrió su brazo con la punta de mis uñas.
-Su piel se erizó. Un hambre rabiosa me apoderó de devorar esos labios suyos que
-estaban a un suspiro de los míos. Quise saborear esa película de humedad que los
-lubricaba.
+Su piel se erizó. Un hambre rabiosa se apoderó de mí... de devorar esos labios
+suyos que estaban a un suspiro de los míos. Quise saborear esa película de
+humedad que los lubricaba.
 
 --Necesito besarte --le susurré al oído, conquistando ahora yo de forma furtiva
 su nuca.
@@ -273,7 +273,7 @@ sola y apesadumbrada a aquella fiesta al inicio de la noche.
 --Me gustaría que esta noche no fuera de un solo bolero --le dije.
 
 Me besó en el cuello, mientras llevaba su mano a mis caderas. Le acaricié
-discretamente, con el dorso de mano, el nacimiento de su escote, recorriendo
+discretamente, con el dorso de la mano, el nacimiento de su escote, recorriendo
 juguetonamente durante un instante con la amenaza de llevar mi movimiento a un
 lugar escandalosamente prohibido dentro de su vestido. En vez de eso, le arreglé
 el tirante. Ella cogió mi collar entre sus dedos por un momento y murmuró:
