@@ -19,7 +19,7 @@ Se cruzó de brazos sobre sus pechos, cuyas formas se vislumbraban a través de 
 tela de la vestimenta. Era invierno, pero en aquella isla mediterránea no era
 crudo. Si bien su abuela la regañó diciéndole que se abrigara con pieles, ella
 prefirió salir de la ceremonia en el templo, con paso firme, de vuelta al mar.
-Resopló. Su cabellera castaña no se iluminaba de alegres tonos avellanas en días
+Resopló. Su cabellera castaña no se iluminaba de alegres tonos avellana en días
 grises como este, solo en días de sol, en días de primavera o de dulce verano.
 
 Se acarició el antebrazo. Las pulseras de bronce chocaron entre sí. Resopló otra
@@ -30,7 +30,7 @@ otras que nunca se dijeron. Sus labios estaban fríos, tal y como sus manos y su
 piel. Ella habría agregado: "Como mi corazón".
 
 El oleaje no podía ser menos perceptible, sin apenas ruido, sin apenas
-movimiento, sin rastro, sin heroismo ni comedia. Lejos quedaban los meses de
+movimiento, sin rastro, sin heroísmo ni comedia. Lejos quedaban los meses de
 calor en los que el pueblo se apostaba a ver qué habían pescado los varones o
 qué nuevas traían los guerreros. Recordó la sonrisa de su hermano, miembro de la
 Asamblea y comandante en la guerra. Ahora mismo estaría en el frente, luchando
@@ -48,8 +48,8 @@ Los ojos profundos de él --iguales a los de ella-- se encontraron. El resto del
 pueblo danzaba en torno a los fuegos, los platos se compartían, los músicos
 tocaban, el filósofo y maestro de geometría discutía con vehemencia con uno de
 los arcontes y los jóvenes correteaban haciéndose travesuras entre ellos. Nadie
-se percató o quiso percatar de cómo abrazaba su brazo fuerte y cómo él, con una
-mueca, le arregló un mechón de su pelo diciéndole:
+se percató o quiso percatarse de cómo abrazaba su brazo fuerte y cómo él, con
+una mueca, le arregló un mechón de su pelo diciéndole:
 
 --Si tu corazón late por mujeres, ¡temo por que me robes mis conquistas!
 
@@ -57,17 +57,17 @@ mueca, le arregló un mechón de su pelo diciéndole:
 
 Se rieron. Ella bebió más vino. Ya estaba bastante borracha también, pero era
 noche de fiesta. Un compañero de armas que estaba al lado de ellos se rio
-también. Sí, había escuchado algo la conversación y no dudo en agarrarla del
+también. Sí, había escuchado algo de la conversación y no dudó en agarrarla del
 brazo para proponerle presentarle a su hermana menor. Ella sabía de quién se
 trataba y se hizo la coqueta.
 
 Ahí, de pie ante la costa, recordó cómo aquella noche, embriagada, danzó
 descalza sobre una de las mesas. Sonreía. Guiñó el ojo a una de las muchachas a
-las que había dedicado poemas a sabiendas que jamás llegarían a ningún puerto.
-Eleutería se recordó querida. Recordó el rostro de orgullo de su hermano mayor.
-Recordó también cómo aquella noche le robó un beso apasionado, detrás de la
-estatua de Artemisa, a una de sus amigas sin dudar un instante en explorar con
-dedos ágiles los pliegues de sus ingles mientras la conquistada tentaba con
+las que había dedicado poemas a sabiendas de que jamás llegarían a ningún
+puerto. Eleutería se recordó querida. Recordó el rostro de orgullo de su hermano
+mayor. Recordó también cómo aquella noche le robó un beso apasionado, detrás de
+la estatua de Artemisa, a una de sus amigas sin dudar un instante en explorar
+con dedos ágiles los pliegues de sus ingles mientras la conquistada tentaba con
 torpeza dibujar la clavícula de Eleutería.
 
 Durante años ver a Eleutería pasear por las callejuelas del pueblo era como
@@ -144,7 +144,7 @@ que Eleutería se alejara de ella. Finalmente, a la vuelta de Arístides, que
 volvió herido, Diotima decidió anular la boda, aunque a él la escena entre ella
 y su hermana le dolió de suma manera al enterarse.
 
-Durante un tiempo, convalesciente, se sintió vacío y melancólico. Entonces fue
+Durante un tiempo, convaleciente, se sintió vacío y melancólico. Entonces fue
 cuando su hermana le dijo aquellas palabras: "Los amores de verdad que se
 pierden duelen". Él, el alma de la fiesta, el gallardo héroe que rescataba a los
 niños que tenían la mala idea de esconderse en las grutas o luchaba por el demos
@@ -252,7 +252,7 @@ marca que le había dejado en el hombro.
 
 Tras un vaso de leche de cabra caliente, pan algo duro con mantequilla y un poco
 de fruta, aquella mañana las dos decidieron dar un paseo a la costa. Llegaron al
-risco en el que, al día anterior, Eleutería se había quedado absorta mirando el
+risco en el que, el día anterior, Eleutería se había quedado absorta mirando el
 mar. Se encontraron ahí a Arístides, sentado, despierto y absorto mirando el
 horizonte. Él se alegró de verlas juntas, visiblemente desarregladas, pero con
 sendas sonrisas en sus rostros. Les contó que él no había dormido en toda la
