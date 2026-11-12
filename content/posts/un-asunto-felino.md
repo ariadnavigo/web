@@ -49,7 +49,7 @@ y, mirando a la gata negra desde fuera, le preguntó:
 El gato decidió --como casi todos los días que pasaba esto-- que no iba a perder
 el tiempo intentando entender a su vecina. Se preguntó por qué le daba tantas
 oportunidades y no supo qué responder. Como el nuevo sitio que había encontrado,
-ahí sobre el vierteaguas le permitía disfrutar del sol de un modo un poco menos
+ahí sobre el vierteaguas, le permitía disfrutar del sol de un modo un poco menos
 directo, decidió quedarse un rato ahí. Se giró para quedar de espaldas a la
 ventana y, por tanto, a la insoportable de su vecina. Por su parte, ella se
 sentó sobre el radiador un momento, ya cansada de mantener aquella posición de
