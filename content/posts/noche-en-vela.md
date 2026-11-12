@@ -15,18 +15,18 @@ vida de toda la pequeña ciudad.
 Ahí, sentada en su cama con la espalda contra la pared del cabecero, una
 muchacha, vestida con un pijama de flores de tirantes y que le llegaba hasta las
 rodillas, leía ávidamente la pantalla de su ordenador portátil, que balanceaba
-sobre sus rodillas. De tanto en tanto cambiaba de posición; por ejemplo, apoyaba
-el portátil sobre las sábanas deshechas y ella se acostaba sobre su vientre con
-la máquina delante de ella.
+sobre aquellas. De tanto en tanto cambiaba de posición; por ejemplo, apoyaba el
+portátil sobre las sábanas deshechas y ella se acostaba sobre su vientre con la
+máquina frente a su mirada.
 
 Con ritmo calmado, pero sin pausa, pasaba las páginas de un manga que le gustaba
 mucho y que había conseguido en versión digital. Sus ojos miraban y leían, pero
-su alma imaginaban las voces, los sonidos, los colores y hasta los olores... Era
+su alma imaginaba las voces, los sonidos, los colores y hasta los olores... Era
 una historia de héroes y heroínas que se hacían fuertes por la amistad que se
 tenían ante situaciones imposibles.
 
 Su rostro era el de la niña que perdemos si no nos damos cuenta y dejamos que la
 vida nos pase por encima. Se reía, se emocionaba y se sentía parte de todo aquel
-mundo... Ahí, a pesar del mundo que despertaría por la mañana con sus
+mundo... Ahí, a pesar del mundo real que despertaría por la mañana con sus
 incomprensibles exigencias, la chica, al menos, tenía un refugio en el que
 descansar en vela por las noches.
