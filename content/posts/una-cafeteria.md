@@ -8,7 +8,7 @@ tags = ["cuento corto"]
 Era un mediodía de invierno, con sol. La cafetería se había vaciado de improviso
 después de haber acogido a varios grupos en sus mesas. Solo quedaba la chica de
 la mesa del fondo, absorta en un libro. Era un poco regordeta, con pelo
-larguísimo, de color castaño, y lucía una vestimenta sobria: un jerséi carmín de
+larguísimo, de color castaño, y lucía una vestimenta sobria: un jersey carmín de
 escote en pico, un pantalón negro de pitillo y unas botas negras de tacón
 discreto.
 
@@ -67,17 +67,17 @@ lugar así, se apoyó en la pared, se dejó caer un poco y lanzó un suspiro.
 En su mente se sucedieron imágenes de la novela, pero con ella ocupando el lugar
 de la malhadada protagonista. La novela, al parecer --según había leído hasta
 entonces--, trataba de una chica holandesa bastante neurótica que vivía en la
-casa de su difunta madre prácticamente aislada del mundo acaba besándose
+casa de su difunta madre prácticamente aislada del mundo y que acababa besándose
 apasionadamente con la novia de su hermano, el cual le había encargado a la
 protagonista que acogiera a aquella. La escena del beso era casi violenta por
-desgarradora... o, al menos, así lo estaba sientiendo al leerla. Miró en la
+desgarradora... o, al menos, así lo estaba sintiendo al leerla. Miró en la
 dirección donde se ubicaba la barra, aunque no pudiera verla dentro del lavabo,
 y suspiró. Se sintió sola, muy sola. Se palpó los labios.
 
 Habían sido años muy complicados --volvió a suspirar--. Se hundió un poco más,
 hasta llegar a una posición incómoda. Se levantó. Se llevó la mano al corazón y
 recordó muchas cosas. Le dolió, punzantemente, el bajo vientre. Sola. Se miró en
-el espejo, se vio triste y, para fingir, tiró la cadena del váter.
+el espejo, se vio triste y, para fingir, tiró de la cadena del váter.
 
 Pasados unos minutos, la barista vio salir del lavabo a la chica. Vio en sus
 ojos una sombra que no se correspondía con cómo ella había entrado tan
@@ -89,7 +89,7 @@ embargo, siempre venía sola. Siempre sola, ella. Era un misterio con patas. Por
 conversaciones con ella, la barista se había hecho la idea de que la muchacha
 era una chica de mundo, extranjera pero arraigada en la ciudad, con educación,
 bella de un modo diferente a lo que el mundo llama "bella", pero muy sola, muy,
-muy sola. 
+muy sola.
 
 Le recordó a ella misma, que había vuelto a esta ciudad, su ciudad natal,
 después de décadas en una gran capital trabajando en un ambiente de dinero,
@@ -100,8 +100,8 @@ infancia, arriesgando todos sus ahorros en esta cafetería. Ahora se sentía
 pequeña y sola. Sus días, de lunes a domingo, estaban consumidos por el negocio,
 que apenas llevaba algo más que un año. Iba bien, pero aún había mucho camino
 por recorrer. Entre cafés con leche, espressos, algún filtrado, bollos y
-contabilidad, su vida pasaba día a día detrás de la barra o en frente de una
-hoja de cálculo o llamando a un proveedor. Se sintió sola.
+contabilidad, su vida pasaba día a día detrás de la barra o enfrente de una hoja
+de cálculo o llamando a un proveedor. Se sintió sola.
 
 La clienta se colocó un abrigo negro que llevaba, se puso al hombro su mochila,
 con el libro dentro, y se dispuso a salir... En el camino, tropezó con una de
