@@ -30,7 +30,7 @@ Volvió a suspirar. Le brotó una lágrima.
 Se dirigió, limpiándose las manos en el delantal, hacia la cafetera. Acarició
 con delicadeza el mango del portafiltros que descansaba sobre la rejilla,
 paseando sus dedos sobre este. ¿Un café...? No, mejor no. Purgó la máquina,
-incluida la lanceta para cremar la leche y comenzó la rutina para limpiarla.
+incluida la lanceta para cremar la leche, y comenzó la rutina para limpiarla.
 
 Una brisa no tan fría acarició la pelusilla ondulada que poblaba su nuca con
 hebras confusas e infantiles. Se llevó la mano izquierda al cuello y la posó un
@@ -46,7 +46,7 @@ su cuerpo habían sido violentados y ella había sido llamada "parásita" por su
 padre... y aquel piso insalubre en el que cayó por desesperación... ese trabajo
 en negro... y luego... la humillación en servicios sociales... y al final...
 este trabajo que le sirvió para tener paz y sanar después de recibir por fin
-justicia, pero aún así este trabajo en la panadería no era su lugar. Sonrió,
+justicia, pero aun así este trabajo en la panadería no era su lugar. Sonrió,
 pero con pena.
 
 La cafetera ya estaba limpia. Así también lo estaba el expositor. Enseguida, los
@@ -66,7 +66,7 @@ trabajar. Tomó el sobre, su sobre, que todavía reposaba junto a la caja.
 Recorrió el interior de la barra hasta la puerta del almacén y despacho, cogió
 su mochila azul, no se puso el abrigo que colgaba de una de las hombreras y, en
 su camino hacia la salida, echó una mirada atrás con una sonrisa. Hoy cenaría
-algo por ahí, sin pretensiones en algún bar de su barrio, pero por primera vez
+algo por ahí, sin pretensiones, en algún bar de su barrio, pero por primera vez
 en seis años cenaría fuera.
 
 Apagó la luz de la panadería al salir y encendió la luz de un nuevo horizonte.
