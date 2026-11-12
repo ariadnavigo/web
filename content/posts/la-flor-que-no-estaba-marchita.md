@@ -6,8 +6,8 @@ tags = ["cuento corto"]
 +++
 
 En el barrio histórico de aquella ciudad hacía un sol brillante que evaporaba
-lentamente los rastros de la lluvia que se habian quedado de la noche anterior 
-entre las hendiduras de los antiguos adoquines. Con paso decidido sobre esas
+lentamente los rastros de la lluvia que se habían quedado de la noche anterior
+entre las hendiduras de los antiguos adoquines. Con andar decidido sobre esas
 mismas piezas de piedra centenaria, la muchacha caminaba con paso ligero,
 canturreando. De su brazo colgaba una cesta de mimbre llena de flores de todas
 las formas y de todos los colores.
@@ -27,20 +27,20 @@ fondo. A todos les ofrecía una sonrisa y a todos les alegraba el día. Si era
 domingo o era festivo entregaba menos, porque había menos gente por la calle,
 pero ella salía igualmente.
 
-Sus pasos eran saltarines. A su paso su pelo, largo hasta casi las lumbares y de
-un color que mutaba entre el castaño y el cobre, flotaba con movimientos
-graciosos y desordenados. Toda ella brillaba como una niña. Sus ojos eran
-vivaces y curiosos, siempre en movimiento. A su sonrisa le faltaban dientes,
-pero ella no la ocultaba. Se reía con gusto y, cuando lo hacía, sus ojitos se
-achinaban levantados por sus pómulos que parecían dos mandarinas. No era una
-niña, pero su alma decidió vestirse de tal modo.
+Sus pasos eran saltarines. Su pelo, largo hasta casi las lumbares y de un color
+que mutaba entre el castaño y el cobre, flotaba con movimientos graciosos y
+desordenados. Toda ella brillaba como una niña. Sus ojos eran vivaces y
+curiosos, siempre en movimiento. A su sonrisa le faltaban dientes, pero ella no
+la ocultaba. Se reía con gusto y, cuando lo hacía, sus ojitos se achinaban
+levantados por sus pómulos que parecían dos mandarinas. No era una niña, pero su
+alma decidió vestirse de tal modo.
 
 Ninguna de las flores estaba marchita, ni pocha, ni fea. Para ella eso era
 importante. Con paso alegre, de frecuencia estocada y ligeros golpes de sus
-tacones sobre las piedras de la ciudad, dio flores al farmacéutico, a la
-patrulla de la policía municipal, al barrendero, al dueño de aquel bar al que
-ella nunca había entrado antes, a la joyera y a la carnicera de la esquina de la
-plaza mayor. Se topó con un concejal y a él también le dio una flor.
+suelas sobre las piedras de la ciudad, dio flores al farmacéutico, a la patrulla
+de la policía municipal, al barrendero, al dueño de aquel bar al que ella nunca
+había entrado antes, a la joyera y a la carnicera de la esquina de la plaza
+mayor. Se topó con un concejal y a él también le dio una flor.
 
 Dirigiéndose hacia una de las callejuelas estrechas que llevaban al oeste, pensó
 en su interior que algún día compraría una bicicleta para hacer la ronda.

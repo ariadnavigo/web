@@ -26,7 +26,7 @@ lado sur, desde el cual nacía una avenida comercial amplia muy concurrida por
 los habitantes de aquella capital de provincias. Justamente era en el flanco
 oriental donde se ubicaba la terraza de aquella cafetería, al costado del
 nacimiento de una callejuela que se dirigía hacia el interior del casco
-histórico. Una galería de soportales de piedra recorrían el largo de aquel lado
+histórico. Una galería de soportales de piedra recorría el largo de aquel lado
 de plaza y era justo debajo de estos que se escondía la discreta entrada de
 aquella cafetería: una puerta de vidrio que daba algo de visión a su interior.
 
@@ -77,7 +77,7 @@ Cuando se lo entregó la barista, ella no pudo evitar alabarle la pequeña obra 
 arte. Ahora, lamentablemente, tal obra había desaparecido con cada sorbo y el
 café era solo un líquido marrón claro en una taza blanca de cerámica. Estaba
 rico; eso sí. Cerró los ojos y suspiró, manteniendo entre sus manos la taza ya
-tibia como si fuese una taza de té caliente en una noche de gélida de invierno.
+tibia como si fuese una taza de té caliente en una noche gélida de invierno.
 
 El sol le besaba los hombros desnudos, cayendo, por detrás, por su espalda y,
 por delante, estancándose primero y luego desbordando sus clavículas hasta
@@ -113,8 +113,8 @@ Le dio un beso cariñoso en los labios a Selena y se sentó a la mesa con ella, 
 sin antes hacer un gesto sutil y efectivo para llamar la atención de la
 camarera, que espiaba a sus dos clientas favoritas. La chica se acercó con su
 paso saltarín que mecía su media melena, preguntó a Babalón qué quería, esta le
-respondió que un café con leche, por favor, y, con el mismo paso saltarín, volvió
-a la madriguera que era ese local ahí casi oculto para preparárselo.
+respondió que un café con leche, por favor, y, con el mismo paso saltarín,
+volvió a la madriguera que era ese local ahí casi oculto para preparárselo.
 
 --Te veía pensativa --dijo Babalón, cogiendo la mano de Selena y mirándola
 fijamente con sus ojos verdes--. ¿En qué pensabas?
@@ -168,7 +168,7 @@ Al cabo de una media hora, más o menos, se levantaron, pagaron los cafés
 llevando los restos dentro --a pesar de las quejas remolonas de la camarera y de
 la dueña--, felicitaron a la chica por su destreza con la leche cremada y, sin
 decirle nada de nada, con un chasquido de los dedos de Babalón y un murmuro en
-sumerio de Selena, cayó sobre ella una buena dosis de buena magia para su vida. 
+sumerio de Selena, cayó sobre ella una buena dosis de buena magia para su vida.
 
 Así salieron las dos Diosas al calor de aquel mediodía, buscando ahora qué
 hacer, porque, la verdad, no tenían ganas de volver a su casa.

@@ -61,7 +61,7 @@ No quise continuar.
 --Esto es malísimo, sí... y no sé ni por qué.
 
 --¿Quién es la titulada ahora, eh? --me replicó la gata, que ahora estaba
-sentada en la esquina de mi cama que estaba más cerca de mi escritorio.
+sentada en la esquina de mi cama más cercana a mi escritorio.
 
 Le devolví una mirada que combinaba enfado y, a la vez, reconocimiento de que
 ella tenía razón. Como intento de querer darme a mí misma un mínimo de cariño,
@@ -69,7 +69,7 @@ cogí entre las manos mi pelo largo... Se sentía como esparto seco y graso a la
 vez. Mi piel, al tacto, se sentía pegajosa, sucia... Necesitaría otra ducha más.
 Si ya de por sí me sentía como un ser que se arrastraba sin fuerzas por el
 desierto, cegada por la luz blanquecina que se adivinaba por las rendijas de la
-persina bajada, los comentarios de la gata no me hacían sentir para nada mejor.
+persiana bajada, los comentarios de la gata no me hacían sentir para nada mejor.
 
 --Deberías darte un descanso --continuó ella--. ¿Cuántas semanas llevas con eso?
 
@@ -104,7 +104,7 @@ mostraba su goce muy felinamente: estiraba el cuello, con los ojos cerrados y
 ronroneando. Cuando ella volvió a abrir los ojos para mirarme --señal de que
 había sido suficiente--, le pregunté:
 
---¿En serio crees que ahora mismo sería mejor que escriba algo _ligero_?
+--¿En serio crees que ahora mismo sería mejor que escribiera algo _ligero_?
 
 Con los ojos fijos en los míos, inclinando la cabeza un poquito hacia un lado,
 como cuando algo atrae la curiosidad de cualquier gato, ella se limitó a

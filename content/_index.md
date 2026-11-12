@@ -24,14 +24,14 @@ Y "contengo muchas multitudes" más, parafraseando al poeta: desde el amor por l
 filosofía, el derecho, el arte y la técnica, pasando por una vida de aventuras,
 retos y mucha experiencia tanto en lo más palaciego como en lo más humilde...
 hasta llegar al punto presente, llena yo de sedimento y de una vida muy vivida.
-Confío que en mis textos y en mi trabajo eso siempre está presente.
+Confío en que eso siempre está presente en mis textos y en mi trabajo.
 
 Así que, al igual que en catalán se dice _Passeu, passeu a veure el piset,_ yo
 os digo aquí: _Pasad, pasad a ver esta web._
 
 Os deseo mucho amor.
 
-![Ariadna (Octubre 2026)](ari.jpg?width=400#center)
+![Ariadna (octubre 2026)](ari.jpg?width=400#center)
 
 Esta web está construida con herramientas de [código abierto.][github]
 

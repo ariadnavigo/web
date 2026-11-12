@@ -43,14 +43,14 @@ Atajó el pelo entre sus manos, escurriéndolo. Pensó en que era ya el momento 
 aplicar el champú sobre su cabello, pero decidió que esperaría un poco más. Al
 fin y al cabo, ¿por qué no alargar un poco una ducha de mediodía? A través de la
 ventana del baño se colaba la luz del sol de aquel fin de invierno, que se
-colaba por una segunda vez por el vidrio semiopaco de la mampara de la ducha.
-Como los azulejos del baño eran de un marrón claro --o crema oscuro-- toda la
-luz que venía del exterior se teñía de un calmo tono cálido, casi de ensueño,
-que envolvía en silencio el acto de tomar una ducha o de mirarse en el espejo.
+rompía diluyéndose a través del vidrio semiopaco de la mampara de la ducha. Como
+los azulejos del baño eran de un marrón claro --o crema oscuro-- toda la luz que
+venía del exterior se teñía de un calmo tono cálido, casi de ensueño, que
+envolvía en silencio el acto de tomar una ducha o de mirarse en el espejo.
 
 Se sentó sobre el plato de ducha --de cerámica blanca-- de manera que el agua le
 cayera sobre los muslos. Cerró los ojos y en su alma vio los edificios de una
-patria antigua. Se acarició jugueteando con las punta de sus uñas y dibujando
+patria antigua. Se acarició jugueteando con las puntas de sus uñas y dibujando
 formas con las gotas que se quedaban suspendidas sobre su piel de seda... ¿No se
 parecía a una constelación? Siete gotas, siete estrellas, que unidas formaban
 una más grande de siete puntas. Y fue entonces cuando escuchó que alguien tocaba
@@ -68,11 +68,11 @@ por delante de la mampara de transparencia imperfecta.
 
 Vio cómo el fantasma opacado hacía una maniobra, algo dijo de quitarse el
 maquillaje primero y, después de unos minutos y de un momento en el que cayó
-agua del fregadero, escuchó la ropa de ella caer al suelo. La mampara se abrió y
-con un ligero titubeo entró una muchacha de piel más blanquecino, pelo oscuro no
+agua del lavamanos, escuchó la ropa de ella caer al suelo. La mampara se abrió y
+con un ligero titubeo entró una muchacha de piel más blanquecina, pelo oscuro no
 tan ondulado y ojos almendrados de color castaño. Restos de máscara poblaban un
 poco sus párpados. Sus pechos eran pequeños y su cadera no gran cosa tampoco. Lo
-que era hermoso en ella eran su clávicula tan aristocrática --adornada por un
+que era hermoso en ella eran su clavícula tan aristocrática --adornada por un
 collar plateado con forma de luna menguante-- y esa bella broma de la naturaleza
 que llevaba entre las piernas.
 
@@ -90,7 +90,7 @@ un día largo y comenzó a explicarlo... pero... Selena se fue callando
 progresivamente a medida que recibía ahora un paseo juguetón de las uñas largas
 y penetrantes de su amada por su espalda. Y así el relato del día se fue
 deshaciendo hasta una simple sucesión de ronroneos... Completamente rendida,
-Selena se recostó aún más, mirando a sus benefactora y refugio con sus ojos
+Selena se recostó aún más, mirando a su benefactora y refugio con sus ojos
 abiertos desde abajo... Con mimo y esa mirada de seda que solo puede existir en
 una enamorada, llevó el dorso de su mano larga y estrecha a la barbilla redonda
 de su amada, Babalón.
@@ -123,14 +123,14 @@ En vez de contestar --¿para qué?--, Babalón dijo:
 
 Con sus dedos largos, Babalón intentó alcanzar el bote de champú, que había sido
 testigo de la escena desde una esquina de la ducha, pero no era capaz. Con una
-sonrisa, Selena se lo acercó, que estaba más cerca. Esta se acomodó,
+sonrisa, Selena, que estaba más próxima, se lo acercó. Esta se acomodó,
 recostándose sobre el pecho de Babalón, y cerró los ojos en cuanto sintió los
 dedos de su amada masajearle la cabeza haciendo brotar espuma blanca... Pensó en
 su madre. ¿Era extraño eso? No, no es extraño, querida. Con mano confusa, entre
 firme y dubitativa, Selena le comenzó a acariciar la pantorrilla --un poco a
 ciegas por la espuma-- a Babalón. Todo se sentía bien. Había sido un día confuso
-y este lavado de cabeza enebrado por los dedos siempre tan hábiles de Babalón la
-llevaban suavemente, en una nube de jabón, a un sueño lúcido en el que le
+y este lavado de cabeza enhebrado por los dedos siempre tan hábiles de Babalón
+la llevaba suavemente, en una nube de jabón, a un sueño lúcido en el que le
 pareció ver como una ciudad muy antigua, en terreno arenoso pero fértil, con
 palmeras, y un templo antiquísimo. Mientras tanto, la otra Diosa se sonreía y,
 lavándole el pelo con esmero, aprovechaba de vez en cuando para besarle la

@@ -43,7 +43,7 @@ café.
 --Se acabó --se dijo en voz alta.
 
 La lluvia continuó del mismo modo que llevaba cayendo desde hace varios días y,
-según el pronóstico metereológico, así seguiría cayendo unos cuantos días más.
+según el pronóstico meteorológico, así seguiría cayendo unos cuantos días más.
 Sin truenos, sin nubes dramáticas que amenazaran como garras desgajar la ciudad
 de sus raíces en la tierra, ni tampoco relámpagos que iluminaran con luz
 perversa un cielo embravecido. Se acabó, pero todo seguía igual de indiferente
@@ -91,7 +91,7 @@ piel ya no soportaba el contacto con la seda del camisón.
 Se observó. Observó su piel y su herida. Respiró hondo con la libreta cerrada a
 medias entre los dedos que la sostenían. El aire entró por su nariz hasta los
 pulmones y otra vez hacia fuera. Su sangre hervía. Su piel comenzó a encenderse.
-Poco a poco, primero una película casi impercetible, pero cada vez más y más,
+Poco a poco, primero una película casi imperceptible, pero cada vez más y más,
 unas lenguas como de fuego comenzaron a surgir desde su cabello hasta la punta
 de sus pies, pasando por su vientre, por sus ingles, por sus rodillas y qué
 decir de su cuello, brazos... Toda ella brillaba en un fuego que restaba luz,
@@ -101,9 +101,9 @@ frío, que no la quemaba, ni quemaba nada.
 Tomó en sus manos la libreta. La cubierta era plateada, con rosas negras
 sangrientas encarnadas. Con la pluma de cuervo, majestuosa, de brillos casi
 petrolíferos, escribía rápido, danzante y con una sonrisa en sus labios
-pintados. Mojaba la pluma de vez en cuando en el tintero que resposaba encima
-del radiador estropeado, ubicado justo debajo de la ventana. Había pasado
-tiempo, pero ahora el tiempo era suyo.
+pintados. Mojaba la pluma de vez en cuando en el tintero que reposaba encima del
+radiador estropeado, ubicado justo debajo de la ventana. Había pasado tiempo,
+pero ahora el tiempo era suyo.
 
 La ventana tomaba un tinte rojizo, primero indistinguible, luego férreo. Ella
 levantó su mirada oscurecida y sintió la necesidad de abrir aquella ventana para
@@ -125,8 +125,8 @@ vidas nuevas al respirar o al moverse ella... Se movió ligera por la habitació
 casi sin tocar el suelo. Hundió sus dedos en las nuevas llamas negras de sus
 velas, sin quemarse. Volvió a la cama con un hambre atroz por un orgasmo que
 uniera las llamas que nacían de su cuerpo con la sangre de la ventana y con los
-fluidos más cristalinos de su sagrado cuerpo a falta de no verter su propio
-sangrado aquellos días. 
+fluidos más cristalinos de su sagrado cuerpo a falta de verter su propio
+sangrado aquellos días.
 
 Sin embargo, no era el momento.
 
@@ -144,7 +144,7 @@ Hasta podía escuchar las aves cantar. El camisón estaba revuelto dentro de las
 sábanas. Tenía hambre. Le rugía el estómago. Todo olía como a rosas. Se asomó a
 ver a los pies de la cama, de donde venía el olor más fuerte, y se sorprendió.
 
-Del interior de la libreta abierta habían brotado rosas, blancas, más claras y
+Del interior de la libreta abierta habían brotado rosas: blancas, más claras y
 rojas también. Una era negra, la del centro, rodeada por las demás. En total
 serían unas siete que se apretaban... ¿o quizás eran nueve? Tomó la libreta en
 flor entre sus manos y se la llevó al pecho. Sonrió. De lo que había escrito no

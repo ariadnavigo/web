@@ -6,13 +6,13 @@ tags = ["cuento corto"]
 +++
 
 La niña entró corriendo a su nueva habitación. Se tiró encima de la cama, aun
-cuando solo tenía el colchón puesto, sin bajera, ni sábanas. ¡Ni la alhomada
+cuando solo tenía el colchón puesto, sin bajera, ni sábanas. ¡Ni la almohada
 tenía funda! ¿Qué importaba? Era su nueva habitación, su nueva cama, en un
 pueblo nuevo a las afueras de la capital y era _suya._
 
 Se imaginó montando una mesa para que sus muñecas --que aún no tenía-- tomaran
 el té. Se imaginó probándose los vestidos --que aún no tenía-- ante el espejo de
-pie que había en la habitación. Dio un giro sobre su talones mientras se
+pie que había en la habitación. Dio un giro sobre sus talones mientras se
 imaginaba como una princesa mágica de las películas. Se sentó en el suelo, de
 madera vieja, y le fascinó la luz que entraba por la ventana. Sí, esta era su
 habitación. Aquí viviría hasta estudiar o hacerse mayor... ¡o hasta casarse!
@@ -24,16 +24,16 @@ extraña se le hacía la expresión. El verano había sido duro, pero aquí esta
 
 --Ya no nos tendremos que mudar más, cariño.
 
-Sin embargo la niña estaba en su mundo. En su imaginación esa habitación era su
+Sin embargo, la niña estaba en su mundo. En su imaginación esa habitación era su
 palacio y ese departamento, el reino de mamá. La cocina enorme le había parecido
 un salón de baile, el baño con su ducha le parecía un rincón acogedor ¡y las
 paredes vacías se iban a llenar de todos sus dibujos! Todo esto le decía ella,
 con ritmo atronador, a su madre, que la escuchaba de brazos cruzados sonriendo
-pero exhausta. 
+pero exhausta.
 
-La madre pensó en que quizás debería haber llamado a una de sus amigas que
-las había acogido estos meses de penurias para que la ayudase con la mudanza y
-poner la casa en orden.
+La madre pensó en que quizás debería haber llamado a una de sus amigas que las
+había acogido estos meses de penurias para que la ayudase con la mudanza y poner
+la casa en orden.
 
 --No quiero ser una carga --se dijo--; ya lo he sido demasiado.
 
@@ -46,7 +46,7 @@ el dolor en su pecho, en el corazón. Quiso llorar.
 
 --¿Mamá?
 
---No, no sé, bueno quizás la semana que viene --contestó, volviendo en sí--. No
+--No, no sé, bueno, quizás la semana que viene --contestó, volviendo en sí--. No
 queremos molestarla mucho, ¿sí?
 
 La niña no entendió. Recordaba esos dos meses como una aventura en la que ella y

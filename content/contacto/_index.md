@@ -8,8 +8,8 @@ author = "Ariadna"
 
 # CONTACTO
 
-Para contactar conmigo, el mejor modo es enviarme un email a las siguientes
-direcciones, según de qué se trate:
+Para contactar conmigo, el mejor modo es enviarme un mensaje a una de las
+siguientes direcciones, según de qué se trate:
 
 - Para consultas sobre servicios lingüísticos: [info@ariadnavigo.com][info]
 - Para todo lo demás: [ariadna@ariadnavigo.com][personal]
