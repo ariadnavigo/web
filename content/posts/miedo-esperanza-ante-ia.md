@@ -39,7 +39,7 @@ que _la represente._ Creo que es una de esas características que nos hacen
 humanos. Nos expresamos y nos relacionamos a través del lenguaje con los demás y
 con el conjunto de la sociedad, incluso a través del tiempo: leer a Aristóteles,
 por ejemplo, es continuar una conversación que ha durado milenios. Isaac Asimov
-o Ursula K. Le Guin no solo escribían para su tiempo, sino que también para los
+o Ursula K. Le Guin no solo escribían para su tiempo, sino también para los
 lectores del futuro, tantas veces como advertencia y tantas otras como muestra
 de esperanza. La _intención_ en el lenguaje es lo que lo hace profundamente
 humano, individual y también relacional y social, y esto es lo que los modelos
@@ -106,7 +106,7 @@ está en entredicho. A riesgo de tirar piedras sobre [mi propio
 tejado]({{< ref "/consultoria">}}), incluso puede llevar a cabo correcciones de
 texto, traducciones y proponer borradores que no están mal y que, en un futuro,
 seguramente sean mejores que hoy en día. Sí, los LLM son capaces de generar
-resultados muy interesantes, pero, eso sí, sin criterio que las gobierne ni
+resultados muy interesantes, pero, eso sí, sin criterio que los gobierne ni
 gusto estético ninguno y siempre de un modo que es estadísticamente plausible,
 que es consecuencia del sistema de "pesos" y de que --quizás esto sorprenda--
 **no tenemos en lingüística una teoría representacional del significado como
@@ -128,7 +128,7 @@ cerrada cómo es ese conocimiento más allá de descripciones de uso, pero que n
 explican por qué el uso es posible y hasta dónde. Al final esto nos acaba
 llevando a las eternas preguntas filosóficas sobre qué es y cómo se da el
 conocimiento humano, preguntas que han sido una constante desde, por lo menos,
-Parménides. Sabemos que sabemos pero ¿sabemos qué es saber? A la lingüística no
+Parménides. Sabemos que sabemos, pero ¿sabemos qué es saber? A la lingüística no
 le queda más remedio que ser esclava de la filosofía en este campo y salir del
 paso con soluciones muy _ad hoc_ según el trabajo científico que estemos
 realizando. Como consecuencia, es por esto mismo que con lenguajes formales
@@ -154,12 +154,12 @@ a que _otros_ la "gestionen" por nosotros. Estamos, en primer lugar, _demasiado
 ocupados,_ aunque evidentemente en nada edificante; ni siquiera muchos trabajos
 tienen ya nada de dignificador o edificante, sino que solo son un sinsentido
 inhumano que trocan nihilismo por un mal sueldo con el que apenas poder
-sobrevivir... Todo en nombre de la sacrosanta "producción". De hecho muchas
+sobrevivir... Todo en nombre de la sacrosanta "producción". De hecho, muchas
 veces llenamos nuestro tiempo con "contenido" para "optimizar" o "hacer más
 productivas" nuestras vidas con el cual nos vamos matando progresivamente en una
 marisma nihilista. Luego, "para compensar" buscamos respuestas espirituales en
 más "contenido" que siempre prioriza la forma al fondo y la venta de identidades
-para reemplazar los vínculos de verdad. Por supuesto esto abre la puerta al
+para reemplazar los vínculos de verdad. Por supuesto, esto abre la puerta al
 comentario sobre la comodificación del placer e, incluso, del Eros bajo una
 lógica de consumo, que es la lógica de la producción, también: "¡Más, no importa
 mucho cómo!". Es en ese contexto que nos vimos atrapados en las redes sociales,
@@ -172,7 +172,7 @@ utilizándola.
 Y no, la creatividad no está restringida a los _artistas_ que adoptan tal
 etiqueta, ya sean grandes o pequeños, conocidos o desconocidos, o millonarios o
 en bancarrota. De hecho, creo que el actual panorama con los modelos de IA
-refuerzan ese mito de la "clase artística" por dos vías. Primero, mediante la
+refuerza ese mito de la "clase artística" por dos vías. Primero, mediante la
 promesa de que los modelos permiten que cualquiera pueda crear algo y "ser
 artista", aunque, en realidad, no haya una gota de alma suya en lo generado.[^5]
 Esto vende una ilusión de "democratización", sujeta, en realidad, a las
@@ -251,7 +251,7 @@ máquina puede hacer eso. Tú y yo, en cambio, sí.
 [^4]:
     Coseriu, E. (1952). _Sistema, norma y habla._
     <https://coseriu.ch/wp-content/uploads/publications_coseriu/coseriu8.pdf>.
-    Al final, Soy una funcional-estructuralista rematada en lo filosófico por
+    Al final, soy una funcional-estructuralista rematada en lo filosófico por
     muy generativa y formalista que pueda ser en la _implementación_ de modelos.
     La filosofía del lenguaje de Chomsky y de la tradición generativa amplia (es
     decir, incluyendo a los "díscolos" de la Gramática Léxico-Funcional y la
@@ -266,4 +266,4 @@ máquina puede hacer eso. Tú y yo, en cambio, sí.
 
 [^7]:
     De Saussure, F. (1916). _Cours de linguistique générale_ (C. Bally & A.
-    Sechehaye, Eds.). Payot
+    Sechehaye, Eds.). Payot.
