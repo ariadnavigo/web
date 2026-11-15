@@ -11,7 +11,7 @@ author = "Ariadna"
 The following are the professional services I offer as a linguist to both
 businesses and individuals:
 
-- **Language advisory &:e consulting:** As your language expert consultant, I
+- **Language advisory & consulting:** As your language expert consultant, I
   offer you and your team services such as advice and technical knowledge about
   language or a language in particular (and its culture), analysis for
   specialized industries, proposals for the creation of style guides/books,
