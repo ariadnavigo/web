@@ -6,6 +6,10 @@ defaultContentLanguage = "es"
 theme = "not-much"
 copyright = "Copyright (c) Ariadna Vigo"
 
+[build]
+[build.cleanDestinationDir]
+enable = "true"
+
 [params]
 showThemeNotice = "true"
 showFooterEverywhere = "true"
