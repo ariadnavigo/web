@@ -6,17 +6,17 @@ defaultContentLanguage = "es"
 theme = "not-much"
 copyright = "Copyright (c) Ariadna Vigo"
 
+[build]
+[build.cleanDestinationDir]
+enable = "true"
+
 [params]
 showThemeNotice = "true"
 showFooterEverywhere = "true"
-
 theme = "dark"
 palette = "dracula"
 showPostsSummary = "true"
-
 author = "Ariadna Vigo"
-
-# Are these even used?
 subtitle = "Relatos y otros textos de la lingüista Ariadna Vigo"
 keywords = "lingüista, correcciones, consultoría, lenguas, narrativa, poesía, ensayo"
 
